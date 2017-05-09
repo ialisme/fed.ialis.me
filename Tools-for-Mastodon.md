@@ -70,3 +70,7 @@ categories: jd text
 
 **Toot to Tweets**\
 [https://dlvrit.com](https://dlvrit.com)
+
+**Mastofeed** Embedded Mastodon feeds for blogs etc.
+[https://www.mastofeed.com](https://www.mastofeed.com)
+
