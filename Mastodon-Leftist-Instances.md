@@ -16,9 +16,7 @@ Of course, we want everyone to join our Socialisme instance, but we understand o
 In the spirit of solidarity and coalition building we categorise the Mastodon Instances that have a Left (or Left leaning) political perspective and advocacy.
 
 
-#### Political Parties
-[https://mastodon.partipirate.org
-](https://mastodon.partipirate.org)
+
 #### Ideological
 
 [https://soc.ialis.me
@@ -36,6 +34,9 @@ In the spirit of solidarity and coalition building we categorise the Mastodon In
 
 [https://social.coop](https://social.coop) - more info [https://opencollective.com/socialcoop](https://opencollective.com/socialcoop)
 
+#### Political Parties
+[https://mastodon.partipirate.org
+](https://mastodon.partipirate.org)
 
 #### Class Enemies (maybe!)
 
