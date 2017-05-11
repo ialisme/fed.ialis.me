@@ -36,6 +36,13 @@ categories: jd text
 
 - - -
 
+### Other ways to do Mastodon
+
+**Madonctl** is a command line client for Mastodon
+https://lilotux.net/~mikael/pub/madonctl
+
+- - -
+
 ### For Admins only
 
 **Mastodon code**
