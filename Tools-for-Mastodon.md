@@ -45,13 +45,13 @@ https://lilotux.net/~mikael/pub/madonctl
 
 ### For Admins only
 
-**Mastodon code**
+**Mastodon code**\
 [https://github.com/tootsuite](https://github.com/tootsuite)
 
-**Blog of Mastodon's inventor, Eugen Rochko**
+**Blog of Mastodon's inventor, Eugen Rochko**\
 [https://medium.com/@Gargron](https://medium.com/@Gargron)
 
-**Admins.town:** A space for fediverse admins to discuss issues related to moderation, federation, technical issues, etc.\
+**Admins.town:** A space for fediverse admins to discuss issues\
 [https://admins.town](https://admins.town)
 
 
