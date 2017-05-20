@@ -1,0 +1,10 @@
+title: The Guide To The Fediverse
+email: fed@ialis.me
+description: "A guide to the fediverse and its different versions (Mastodon, GNUSocial, ...)."
+baseurl: ""
+url: "https://fed.ialis.me"
+
+# Build settings
+markdown: kramdown
+
+permalink: "/news/:year/:month/:day/:title.html"

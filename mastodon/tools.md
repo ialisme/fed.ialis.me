@@ -1,13 +1,12 @@
 ---
-layout: post
-title:  "Tools for Mastodon"
-date:   2017-05-09 12:37:47 +0200
-categories: jd text
+layout: page
+title: "Tools for Mastodon"
+category: tools
 ---
 
-## Tools for Mastodon
+# Tools for Mastodon
 
-### Basic Guides
+## Basic Guides
 
 **Mastodon User Guide**\
 [http://mastoguide.info](http://mastoguide.info)
@@ -19,29 +18,21 @@ categories: jd text
 [https://instances.mastodon.xyz/list
 ](https://instances.mastodon.xyz/list)
 
-- - -
-### Language Translation
+## Language Translation
 
 **Translator Bot**\
 [https://christopher.su/projects/translator](https://christopher.su/projects/translator)
 
-- - -
-
-### Searching
+## Searching
 
 - [http://tuskr.xyz](http://tuskr.xyz)
 - [https://cler.ical.ist](https://cler.ical.ist)
 - [http://mastory.social](http://mastory.social)
 
-
-- - -
-
-### Other ways to do Mastodon
+## Other ways to do Mastodon
 
 **Madonctl** is a command line client for Mastodon\
 https://lilotux.net/~mikael/pub/madonctl
-
-- - -
 
 ### For Admins only
 
