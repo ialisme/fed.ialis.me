@@ -10,4 +10,13 @@
   <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <meta http-equiv="Content-Language" content="{{site.active_lang}}">
+  {{ I18n_Headers https://fed.ialis.me/ }}
+  <link rel="alternate" hreflang="{{site.default_lang}}" href="{{site.url}}{{page.permalink}}" />
+  {% for lang in site.languages %}
+  {% if lang == site.default_lang %}
+    {% continue %}
+  {% endif %}
+  <link rel="alternate" hreflang="{{lang}}" href="{{site.url}}/{{lang}}{{page.permalink}}" />
+  {% endfor %}
 </head>
