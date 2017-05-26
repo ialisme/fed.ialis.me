@@ -9,7 +9,7 @@ categories:
   guides: Guides
   instances: Instances
   tools: Outils
-  clients: Applications
+  apps: Applications
   news: Actualité
 
 pages:
@@ -22,7 +22,9 @@ titles:
   instances: Instances
   tools: Tools
   guides: Guides
+  apps: Applications
 
 index:
   title: Bienvenue sur le Fediverse
   subtitle: un réseau social libre, décentralisé et fédéré
+

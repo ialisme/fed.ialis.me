@@ -1,5 +1,4 @@
 ---
-title: titles.index
 layout: home
 namespace: index
 permalink: /
@@ -7,6 +6,7 @@ category: index
 ---
 
 <div class="container">
+  <br/>
   <div class="content has-text-centered">
     {% tf index/introduction.md %}
   </div>
@@ -16,28 +16,17 @@ category: index
     <div class="tile is-vertical is-8"> <!-- left side tiles -->
       <div class="tile">
         <div class="tile is-parent is-vertical"> <!-- first column tiles -->
-          <a href="/introduction/" class="tile is-child notification is-primary">
-            <p class="title">Introduction</p>
-            <p class="subtitle">
-              The Fediverse is the ensemble of diverse instances/communities.
-              Read this introduction.
-            </p>
+          <a href="{% tl introduction %}" class="tile is-child notification is-primary">
+            <div class="content">{% tf index/tile_introduction.md %}</div>
           </a>
-          <a href="decentralization" class="tile is-child notification is-primary">
-            <p class="title">Decentralization ?</p>
-            <p class="subtitle">
-              Traditional social networks are backed by companies who use <i>you</i> as their product. Take the control
-              of your communications back.
-            </p>
+          <a href="{% tl decentralization %}" class="tile is-child notification is-primary">
+            <div class="content">{% tf index/tile_decentralization.md %}</div>
           </a>
         </div>
 
         <div class="tile is-parent">
-          <a href="/instances/" class="tile is-child notification is-info">
-            <p class="title">Find Your Community</p>
-            <p class="subtitle">
-              The power of the fediverse resides in its diversity of instances / communities. Find the one that pleases you.
-            </p>
+          <a href="{% tl instances %}" class="tile is-child notification is-info">
+            <div class="content">{% tf index/tile_instances.md %}</div>
             <figure class="image is-4by3">
               <img src="/assets/images/fediverse.png">
             </figure>
@@ -45,13 +34,9 @@ category: index
         </div>
       </div>
     <div class="tile is-parent">
-      <article class="tile is-child notification is-danger">
-        <p class="title">Mastodon? Fediverse?</p>
-        <p class="subtitle">A small introduction</p>
-        <div class="content">
-
-        </div>
-      </article>
+      <a href="{% tl matters %}" class="tile is-child notification is-danger">
+        <div class="content">{% tf index/tile_matters.md %}</div>
+      </a>
     </div>
     </div>
 

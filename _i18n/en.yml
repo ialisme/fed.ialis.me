@@ -9,7 +9,7 @@ categories:
   guides: Guides
   instances: Instances
   tools: Tools
-  clients: Apps
+  apps: Apps
   news: News
 
 pages:
@@ -21,7 +21,8 @@ titles:
   join: Join the Fediverse
   instances: Instances
   tools: Tools
-  
+  apps: Applications
+
 index:
   title: Welcome to the Fediverse
   subtitle: an open, free, decentralized and federated social network
