@@ -19,7 +19,7 @@
 
 
   <body>
-  <section  id="masthead" class="hero is-dark is-bold">
+  <section  id="masthead" class="hero is-dark is-black is-bold">
     <!-- Hero header: will stick at the top -->
     <div class="hero-head">
       <header class="nav has-shadow">
@@ -41,11 +41,11 @@
       <a href="/instances/" class="nav-item is-tab ">
         Instances
       </a>
+      <a href="/apps/" class="nav-item is-tab ">
+        Apps
+      </a>
       <a href="/tools/" class="nav-item is-tab ">
         Tools
-      </a>
-      <a href="" class="nav-item is-tab ">
-        Apps
       </a>
       <a href="" class="nav-item is-tab ">
         News
@@ -74,8 +74,13 @@
   </section>
 
   <div class="container">
+  <br/>
   <div class="content has-text-centered">
-    <p>The fediverse is a <strong>decentralized and federated</strong> open and free social network, similar to Twitter.</p>
+    <p>The fediverse is a <strong>decentralized, federated</strong>,  social micro-blogging network, similar to Twitter.</p>
+
+<p>It is made of a multitude of independent <a href="/instances/">instances</a>, running on different <a href="/servers/">software</a> such as Mastodon or GNU Social.</p>
+
+<p><strong>This website is a work of progress and not ready for prime time.</strong> Most link don’t work yet.</p>
 
 
   </div>
@@ -86,27 +91,27 @@
       <div class="tile">
         <div class="tile is-parent is-vertical"> <!-- first column tiles -->
           <a href="/introduction/" class="tile is-child notification is-primary">
-            <p class="title">Introduction</p>
-            <p class="subtitle">
-              The Fediverse is the ensemble of diverse instances/communities.
-              Read this introduction.
-            </p>
+            <div class="content"><h2 id="introduction">Introduction</h2>
+
+<p>Learn the basics of the Fediverse to get started</p>
+</div>
           </a>
-          <a href="decentralization" class="tile is-child notification is-primary">
-            <p class="title">Decentralization ?</p>
-            <p class="subtitle">
-              Traditional social networks are backed by companies who use <i>you</i> as their product. Take the control
-              of your communications back.
-            </p>
+          <a href="" class="tile is-child notification is-primary">
+            <div class="content"><h2 id="decentralization-">Decentralization ?</h2>
+
+<p>Instead of being managed by a single entity, the Fediverse is compromised of a multitude of independant instances.</p>
+</div>
           </a>
         </div>
 
         <div class="tile is-parent">
           <a href="/instances/" class="tile is-child notification is-info">
-            <p class="title">Find Your Community</p>
-            <p class="subtitle">
-              The power of the fediverse resides in its diversity of instances / communities. Find the one that pleases you.
-            </p>
+            <div class="content"><h2 id="find-your-community">Find Your Community</h2>
+
+<p>The power of the fediverse resides in his diversity of instances and communities!</p>
+
+<p>Find the one that pleases you.</p>
+</div>
             <figure class="image is-4by3">
               <img src="/assets/images/fediverse.png">
             </figure>
@@ -114,13 +119,12 @@
         </div>
       </div>
     <div class="tile is-parent">
-      <article class="tile is-child notification is-danger">
-        <p class="title">Mastodon? Fediverse?</p>
-        <p class="subtitle">A small introduction</p>
-        <div class="content">
+      <a href="" class="tile is-child notification is-danger">
+        <div class="content"><h2 id="why-decentralization-and-federation-matters-">Why decentralization and federation matters ?</h2>
 
-        </div>
-      </article>
+<p>bla bla bla</p>
+</div>
+      </a>
     </div>
     </div>
 
@@ -167,6 +171,7 @@
 
   </div>
 </nav>
+<br/>
 </div>
 
 <footer class="footer">
@@ -190,6 +195,9 @@
   </div>
 </footer>
 
+<script src="/assets/js/jquery-2.2.0.min.js"></script>
+<script src="/assets/js/bulma.js"></script>
+<script src="/assets/js/site.js"></script>
 
 
   </body>

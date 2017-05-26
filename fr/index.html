@@ -19,7 +19,7 @@
 
 
   <body>
-  <section  id="masthead" class="hero is-dark is-bold">
+  <section  id="masthead" class="hero is-dark is-black is-bold">
     <!-- Hero header: will stick at the top -->
     <div class="hero-head">
       <header class="nav has-shadow">
@@ -41,11 +41,11 @@
       <a href="/fr/instances/" class="nav-item is-tab ">
         Instances
       </a>
+      <a href="/fr/applications/" class="nav-item is-tab ">
+        Applications
+      </a>
       <a href="/fr/outils/" class="nav-item is-tab ">
         Outils
-      </a>
-      <a href="" class="nav-item is-tab ">
-        Applications
       </a>
       <a href="" class="nav-item is-tab ">
         Actualité
@@ -74,8 +74,13 @@
   </section>
 
   <div class="container">
+  <br/>
   <div class="content has-text-centered">
-    <p>Le fediverse est un réseau social décentralisé et fédéré.</p>
+    <p>Le fediverse est un réseau social de micro journal décentralisé et fédéré, similaire à Twitter.</p>
+
+<p>Il est composé d’une multitude d’<a href="/fr/instances/">instances</a> indépendantes, utilisant des <a href="/fr/serveurs/">serveurs</a> différents tels que Mastodon ou GNU Social, tout en étant <strong>fédérées</strong>.</p>
+
+<p><strong>Ce site est en construction et n’est pas encore public.</strong> La majorité des liens ne fonctionnent pas.</p>
 
   </div>
 
@@ -84,28 +89,29 @@
     <div class="tile is-vertical is-8"> <!-- left side tiles -->
       <div class="tile">
         <div class="tile is-parent is-vertical"> <!-- first column tiles -->
-          <a href="/introduction/" class="tile is-child notification is-primary">
-            <p class="title">Introduction</p>
-            <p class="subtitle">
-              The Fediverse is the ensemble of diverse instances/communities.
-              Read this introduction.
-            </p>
+          <a href="/fr/introduction/" class="tile is-child notification is-primary">
+            <div class="content"><h2 id="introduction">Introduction</h2>
+
+<p>Comprenez les bases du Fediverse et de sa diversité.</p>
+
+</div>
           </a>
-          <a href="decentralization" class="tile is-child notification is-primary">
-            <p class="title">Decentralization ?</p>
-            <p class="subtitle">
-              Traditional social networks are backed by companies who use <i>you</i> as their product. Take the control
-              of your communications back.
-            </p>
+          <a href="" class="tile is-child notification is-primary">
+            <div class="content"><h2 id="decentralisé-">Decentralisé ?</h2>
+
+<p>Le Fediverse n’est pas géré par une seule entité ou compagnie, mais est constitué d’une multitude d’instances
+indépendantes: ce sont la base de la décentralization et de la fédération.</p>
+
+</div>
           </a>
         </div>
 
         <div class="tile is-parent">
-          <a href="/instances/" class="tile is-child notification is-info">
-            <p class="title">Find Your Community</p>
-            <p class="subtitle">
-              The power of the fediverse resides in its diversity of instances / communities. Find the one that pleases you.
-            </p>
+          <a href="/fr/instances/" class="tile is-child notification is-info">
+            <div class="content"><h2 id="trouver-votre-communauté">Trouver votre communauté</h2>
+
+<p>Le pouvoir du fediverse réside dans sa varitié d’instances et de communauté. Trouvez celle qui vous convient.</p>
+</div>
             <figure class="image is-4by3">
               <img src="/assets/images/fediverse.png">
             </figure>
@@ -113,13 +119,12 @@
         </div>
       </div>
     <div class="tile is-parent">
-      <article class="tile is-child notification is-danger">
-        <p class="title">Mastodon? Fediverse?</p>
-        <p class="subtitle">A small introduction</p>
-        <div class="content">
+      <a href="" class="tile is-child notification is-danger">
+        <div class="content"><h2 id="pourquoi-la-décentralisation-et-la-fédération-sont-importantes-">Pourquoi la décentralisation et la fédération sont importantes ?</h2>
 
-        </div>
-      </article>
+<p>bnla la bla bla bla bla bla bla</p>
+</div>
+      </a>
     </div>
     </div>
 
@@ -166,6 +171,7 @@
 
   </div>
 </nav>
+<br/>
 </div>
 
 <footer class="footer">
@@ -189,6 +195,9 @@
   </div>
 </footer>
 
+<script src="/assets/js/jquery-2.2.0.min.js"></script>
+<script src="/assets/js/bulma.js"></script>
+<script src="/assets/js/site.js"></script>
 
 
   </body>

@@ -1,6 +1,11 @@
 #masthead {
-  background: url('/assets/images/header_outline.png') repeat-x bottom left, linear-gradient(141deg, #1f1919 0%, #363636 71%, #463f3f 100%) !important;
+  background: url('/assets/images/header_outline.png') repeat-x bottom left, linear-gradient(rgb(48,68,76), #7599aa 40%) !important
+}
+#masthead .hero-body {
+  height: 240px;
+  padding: 1.5rem 1.5rem;
 }
 #main-menu {
   flex: 4;
 }
+
