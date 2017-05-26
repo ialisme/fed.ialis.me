@@ -1,9 +1,29 @@
+<div class="container">
+  <br />
+<nav class="level">
+  <div class="level-left">
+    &nbsp;
+  </div>
+
+  <div class="level-right">
+    <p class="level-item">
+      {% t global.lang_pick %}
+    </p>
+    {% for lang in site.languages %}
+      {% unless site.lang == lang %}
+      <p class="level-item"><a href="{% tl {{ page.namespace }} {{ lang }} %}" >{% t langs.{{ lang }} %}</a></p>
+        {% endunless %}
+{% endfor %}
+  </div>
+</nav>
+</div>
+
 <footer class="footer">
   <div class="container">
     <div class="content has-text-centered">
       <p>
         <strong>fed.ialis.me</strong> by <a href="https://soc.ialis.me/about/collective">the soc.ialis.me collective</a>
-        and <a href="#">contributors</a>.
+        and <a href="https://github.com/ialisme/fed.ialis.me/graphs/contributors">contributors</a>.
         <br />
         <small>
           The source code is licensed <a href="http://opensource.org/licenses/mit-license.php">MIT</a>.<br />

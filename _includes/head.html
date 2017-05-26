@@ -3,20 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
-  <link rel="stylesheet" href="{{ "/css/bulma.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
+  <title>{% if page.title %}{% t page.title %}{% else %}{% t global.title %}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% t global.description %}{% endif %}">
+  <meta http-equiv="Content-Language" content="{{ site.lang }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <meta http-equiv="Content-Language" content="{{site.active_lang}}">
-  {{ I18n_Headers https://fed.ialis.me/ }}
-  <link rel="alternate" hreflang="{{site.default_lang}}" href="{{site.url}}{{page.permalink}}" />
-  {% for lang in site.languages %}
-  {% if lang == site.default_lang %}
-    {% continue %}
-  {% endif %}
-  <link rel="alternate" hreflang="{{lang}}" href="{{site.url}}/{{lang}}{{page.permalink}}" />
-  {% endfor %}
+  {% for lang in site.languages %}{% unless site.lang == lang %}<link rel="alternate" hreflang="{{ lang }}" href="{% tl {{ page.namespace }} {{ lang }} %}" />{% endunless %}{% endfor %}
+
+  <link rel="stylesheet" href="{{ "/assets/css/bulma.css" | prepend: site.baseurl_root }}">
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl_root }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl_root | prepend: site.url }}">
 </head>

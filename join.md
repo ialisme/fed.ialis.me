@@ -1,9 +1,10 @@
 ---
-title: Join The Fediverse
-permalink: /join-the-fediverse/
+title: titles.join
+namespace: join
+permalink: /join/
+permalink_fr: /rejoindre/
 layout: page
 ---
 
-# bla
+{% tf join/content.md %}
 
-## bal bla bla

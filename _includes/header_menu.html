@@ -1,7 +1,7 @@
-<header class="nav">
+<header class="nav has-shadow">
   <div class="container">
     <div class="nav-left">
-      <a href="/" class="nav-item">
+      <a href="{% tl index %}" class="nav-item is-tab  {% if page.category == 'index' %}is-active{% endif %}">
         fed.ialis.me
       </a>
     </div>
@@ -10,25 +10,25 @@
       <span></span>
       <span></span>
     </span>
-    <div class="nav-right nav-menu">
-      <a href="/" class="nav-item is-active">
-        Home
+    <div class="nav-right nav-menu" id="main-menu">
+      <a href="{% tl guides %}" class="nav-item is-tab {% if page.category == 'guides' %}is-active{% endif %}">
+        {% t categories.guides %}
       </a>
-      <a class="nav-item">
-        Guides
+      <a href="{% tl instances %}" class="nav-item is-tab {% if page.category == 'instances' %}is-active{% endif %}">
+        {% t categories.instances %}
       </a>
-      <a href="/instances" class="nav-item">
-        Instances
+      <a href="{% tl tools %}" class="nav-item is-tab {% if page.category == 'tools' %}is-active{% endif %}">
+        {% t categories.tools %}
       </a>
-      <a href="/tools" class="nav-item">
-        Tools
+      <a href="{% tl clients %}" class="nav-item is-tab {% if page.category == 'clients' %}is-active{% endif %}">
+        {% t categories.clients %}
       </a>
-      <a href="/clients" class="nav-item">
-        Clients
+      <a href="{% tl news %}" class="nav-item is-tab {% if page.category == 'news' %}is-active{% endif %}">
+        {% t categories.news %}
       </a>
-      <span class="nav-item">
-        <a href="/join-the-fediverse/" class="button is-success is-bold">
-          <span>Join The Fediverse</span>
+      <span class="nav-item is-tab">
+        <a href="{% tl join %}" class="button is-success is-bold">
+          <span>{% t titles.join %}</span>
         </a>
       </span>
     </div>

@@ -1,0 +1,10 @@
+-
+  name: Mastodon
+  url: https://joinmastodon.org
+  source: https://github.com/tootsuite/mastodon
+  permalink: mastodon
+-
+  name: GNU Social
+  url: http://gnu.io
+  source: http://gnu.io
+  permalink: gnusocial

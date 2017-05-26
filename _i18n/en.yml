@@ -1,0 +1,28 @@
+global:
+  title: The Guide to the Fediverse
+  description: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
+  lang_pick: "Language:"
+langs:
+  en: English
+  fr: Français
+categories:
+  guides: Guides
+  instances: Instances
+  tools: Tools
+  clients: Apps
+  news: News
+
+pages:
+  index: Home
+
+titles:
+  index: The Guide to the Fediverse
+  introduction: Introduction to the Fediverse
+  join: Join the Fediverse
+  instances: Instances
+  tools: Tools
+  
+index:
+  title: Welcome to the Fediverse
+  subtitle: an open, free, decentralized and federated social network
+

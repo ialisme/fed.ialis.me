@@ -1,5 +1,5 @@
 gems:
-  - jekyll-polyglot
+  - jekyll-multiple-languages-plugin
 
 title: The Guide To The Fediverse
 email: fed@ialis.me
@@ -15,7 +15,5 @@ permalink: "/news/:year/:month/:day/:title.html"
 # I18n
 
 languages: ["en", "fr"]
-default_lang: "en"
-exclude_from_localization: ["javascript", "images", "css", "assets"]
-parallel_localization: true
+exclude_from_localization: ["assets"]
 

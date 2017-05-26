@@ -1,10 +1,10 @@
 ---
-title: Tools
+title: titles.tools
+namespace: tools
+permalink: /tools/
+permalink_fr: /outils/
+category: tools
 ---
 
-# Tools
-
-* [Tools for Mastodon](/mastodon/tools/)
-* [Tools for Administrators](/admins/tools)
-
+{% tf tools/content.md %}
 

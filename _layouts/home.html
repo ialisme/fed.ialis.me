@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body>
-  <section class="hero is-dark is-bold">
+  <section  id="masthead" class="hero is-dark is-bold">
     <!-- Hero header: will stick at the top -->
     <div class="hero-head">
       {% include header_menu.html %}
@@ -13,10 +13,10 @@
     <div class="hero-body">
       <div class="container has-text-centered">
         <h1 class="title">
-          {{ site.data.i18n[site.active_lang].index.title }}
+          {% t index.title %}
         </h1>
         <h2 class="subtitle">
-          {{ site.data.i18n[site.active_lang].index.subtitle }}
+          {% t index.subtitle %}
         </h2>
       </div>
     </div>
