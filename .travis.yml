@@ -1,33 +1,34 @@
 language: ruby
 rvm:
-  - 2.4.1
+- 2.4.1
 script: bundle exec jekyll build
 branches:
   only:
-    - master
+  - master
 before_script:
-  - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+- echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
-  - openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy.pem.enc -out .travis/deploy.pem -d
-  - chmod 600 .travis/deploy.pem # this key should have push
-  - eval `ssh-agent -s` # Make sure ssh agent is working
-  - ssh-add .travis/deploy.pem
-  - rm -rf _deploy
-  - mkdir _deploy
-  - cd _deploy
-  - git clone https://github.com/ialisme/fed.ialis.me.git --branch=gh-pages .
-  - git remote add deploy git@github.com:ialisme/fed.ialis.me.git
-  - rsync -avzh ../_site/ ./
-  - git add .
-  - git config --global user.name "$GIT_NAME"
-  - git config --global user.email "$GIT_EMAIL"
-  - git commit -m "New site version. Committed by Travis-CI."
-  - git push deploy gh-pages
+- openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy_rsa.enc -out .travis/deploy_rsa -d
+- chmod 600 .travis/deploy_rsa
+- eval `ssh-agent -s`
+- ssh-add .travis/deploy_rsa
+- rm -rf _deploy
+- mkdir _deploy
+- cd _deploy
+- git clone https://github.com/ialisme/fed.ialis.me.git --branch=gh-pages .
+- git remote add deploy git@github.com:ialisme/fed.ialis.me.git
+- rsync -avzh ../_site/ ./
+- git add .
+- git config --global user.name "$GIT_NAME"
+- git config --global user.email "$GIT_EMAIL"
+- git commit -m "New site version. Committed by Travis-CI."
+- git push deploy gh-pages
 notifications:
   irc:
     on_success: change
     on_failure: change
     channels:
-      - "ircs://irc.random.sh:6667/#random"
+    - ircs://irc.random.sh:6667/#random
     template:
-      - '%{repository}#%{build_number} (%{branch}) %{message} %{build_url}'
+    - "%{repository}#%{build_number} (%{branch}) %{message} %{build_url}"
+before_install:
