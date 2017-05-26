@@ -1,0 +1,7 @@
+#
+# This robots.txt file is intendend for `ialisme.github.io` which is the non-production
+# version of the static site over soc.ialis.me and is not supposed to be live/indexed.
+#
+
+User-agent: *
+Disallow: /
