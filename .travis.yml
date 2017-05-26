@@ -8,11 +8,10 @@ branches:
 before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
 after_success:
-  - mkdir .travis
-  - echo -e "$DEPLOY_KEY" > .travis/deploy_key.pem
-  - chmod 600 .travis/deploy_key.pem # this key should have push 
+  - openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy.pem.enc -out .travis/deploy.pem -d
+  - chmod 600 .travis/deploy_key.pem # this key should have push
   - eval `ssh-agent -s` # Make sure ssh agent is working
-  - ssh-add .travis/deploy_key.pem
+  - ssh-add .travis/deploy.pem
   - rm -rf _deploy
   - mkdir _deploy
   - cd _deploy
