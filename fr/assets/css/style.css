@@ -1,10 +1,24 @@
-#masthead {
+#masthead, #smallhead {
   background: url('/assets/images/header_outline.png') repeat-x bottom left, linear-gradient(rgb(48,68,76), #7599aa 40%) !important
 }
 #masthead .hero-body {
   height: 240px;
   padding: 1.5rem 1.5rem;
 }
+
+#smallhead .hero-head {
+  background-color: rgba(48,68,76,0.9);
+}
+#smallhead .hero-body {
+  height: inherit;
+  padding: 1.5rem 1.5rem;
+}
+#smallhead .hero-body .title {
+  background-color: rgba(48,68,76,0.7);
+  padding: 5px;
+  display: inline-block
+}
+
 #main-menu {
   flex: 4;
 }
