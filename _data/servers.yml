@@ -1,10 +1,11 @@
--
+- id: mastodon
   name: Mastodon
-  url: https://joinmastodon.org
+  link: https://joinmastodon.org
   source: https://github.com/tootsuite/mastodon
-  permalink: mastodon
+  maturity: stable
 -
+  id: gnusocial
   name: GNU Social
-  url: http://gnu.io
+  link: http://gnu.io
   source: http://gnu.io
-  permalink: gnusocial
+  maturity: stable

@@ -28,8 +28,9 @@ titles:
   gnusocial: GNU Social
   guides: Guides
   admin: Administrator's Guides
-  servers: Servers
+  servers: Servers software
   mastodon_tools: Tools for Mastodon
+  protocols: Standards protocols
 
 index:
   title: Welcome to the Fediverse

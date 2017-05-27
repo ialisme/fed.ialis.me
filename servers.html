@@ -1,0 +1,52 @@
+---
+layout: page
+title: titles.servers
+namespace: servers
+permalink: /servers/
+permalink_fr: /serveurs/
+category: servers
+---
+
+{% tf servers/content.md %}
+
+<div class="columns">
+  {% for server in site.data.servers %}
+  <div class="column is-one-third">
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-48x48">
+              <img src="/assets/images/servers/{{ server.id }}.png">
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4"><a href="{% tl {{ server.id }} %}" class="is-large">{{ server.name }}</a></p>
+            <div class="subtitle is-6">
+            </div>
+          </div>
+        </div>
+
+        <div class="content">
+          {% tf servers/{{ server.id }}.md %}
+        </div>
+      </div>
+
+      <div class="card-footer">
+        {% if server.source %}
+          <a href="{{ server.link }}" class="card-footer-item">
+          WWW
+          </a>
+        {% endif %}
+        {% if server.source %}
+          <a href="{{ server.source }}" class="card-footer-item">
+          {% t global.opensource %}
+          </a>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+
