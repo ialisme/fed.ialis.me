@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/hrefhref/jekyll-multiple-languages-plugin.git
-  revision: f6149028824e1594c0b13ea1463112ad451150db
+  revision: 4f9c362eb6e9f9884232a60dd98c1f1072a2c77e
   specs:
     jekyll-multiple-languages-plugin (1.5.1)
       jekyll (>= 2.0, < 4.0)
@@ -32,9 +32,9 @@ GEM
       listen (~> 3.0, < 3.1)
     kramdown (1.13.2)
     liquid (3.0.6)
-    listen (3.0.6)
-      rb-fsevent (>= 0.9.3)
-      rb-inotify (>= 0.9.7)
+    listen (3.0.8)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
@@ -44,7 +44,7 @@ GEM
       ffi (>= 0.5.0)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.23)
+    sass (3.4.24)
 
 PLATFORMS
   ruby
