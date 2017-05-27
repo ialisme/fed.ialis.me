@@ -5,8 +5,6 @@ collection: admins
 category: tools
 ---
 
-# Tools for Fediverse Administrators
-
 **Mastodon code**\
 [https://github.com/tootsuite](https://github.com/tootsuite)
 

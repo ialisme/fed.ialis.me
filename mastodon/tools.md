@@ -7,8 +7,6 @@ permalink: /mastodon/tools/
 permalink_fr: /mastodon/outils/
 ---
 
-# Tools for Mastodon
-
 ## Basic Guides
 
 **Mastodon User Guide**\
