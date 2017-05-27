@@ -1,3 +1,7 @@
+lang_pickers:
+  en: Would you like to read this page in English ?
+  fr: Vous parlez Français ? Lisez la traduction de cette page
+
 en:
   title: The Guide To The Fediverse
   index:

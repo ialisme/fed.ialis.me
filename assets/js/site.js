@@ -5,7 +5,8 @@ jQuery(document).ready(function ($) {
   var translations = $.map(langs, function(e) { return e.hreflang });
   if (browserLang !== currentLang) {
     if ($.inArray(browserLang, langs)) {
-      var translation = $("link[hreflang=" + browserLang + "]")
+      $("#lang-picker-" + browserLang).show();
+      var translation = $("link[hreflang=" + browserLang + "]");
       console.log("Lang has a translation!!", translation)
     }
   }
