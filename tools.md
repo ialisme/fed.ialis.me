@@ -1,4 +1,5 @@
 ---
+layout: page
 title: titles.tools
 namespace: tools
 permalink: /tools/

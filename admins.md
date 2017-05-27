@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Administrator's Guide
+title: titles.admin
+namespace: admin
+permalink: /admin/
+permalink_fr: /administrateurs/
+category: guides
 ---
 
 # The Administrator Guide

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: titles.introduction
 namespace: introduction
 permalink: /introduction/

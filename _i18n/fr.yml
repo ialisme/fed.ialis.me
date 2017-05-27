@@ -27,6 +27,9 @@ titles:
   apps: Applications
   mastodon: Mastodon
   gnusocial: GNU Social
+  admin: Guides de l'Administrateur
+  servers: Serveurs
+  mastodon_tools: Outils pour Mastodon
 
 index:
   title: Bienvenue sur le Fediverse

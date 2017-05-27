@@ -1,7 +1,10 @@
 ---
 layout: page
-title: "Tools for Mastodon"
+title: titles.mastodon_tools
 category: tools
+namespace: mastodon_tools
+permalink: /mastodon/tools/
+permalink_fr: /mastodon/outils/
 ---
 
 # Tools for Mastodon
