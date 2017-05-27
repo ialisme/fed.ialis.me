@@ -1,0 +1,23 @@
+- id: ios
+  apps:
+    - id: amaroq
+      server:
+        - mastodon
+      name: Amaroq
+      link: https://appsto.re/us/OfFxib.i
+      source: https://github.com/ReticentJohn/Amaroq
+- id: android
+  apps:
+    - id: tusky
+      server:
+        - mastodon
+      name: Tusky
+      link: https://play.google.com/store/apps/details?id=com.keylesspalace.tusky
+      source: https://github.com/Vavassor/Tusky
+    - id: twidere
+      server:
+        - mastodon
+        - gnusocial
+      name: Twidere
+      link: https://play.google.com/store/apps/details?id=org.mariotaku.twidere
+      source: https://github.com/TwidereProject/Twidere-Android
