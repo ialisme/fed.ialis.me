@@ -23,3 +23,6 @@
   flex: 4;
 }
 
+.message-translation {
+  display: none;
+}
