@@ -6,6 +6,12 @@ layout: default
   {% include lang_pickers.html %}
   <div class="content">
     {{ content }}
+    <hr />
+    <ul>
+      {% for link in page.see_also %}
+      <li><a href="{% tl link %}">{% t titles.{{ link }} %}</a></li>
+      {% endfor %}
+    </ul>
   </div>
 </div>
 </section>

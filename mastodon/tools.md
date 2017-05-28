@@ -5,6 +5,9 @@ category: tools
 namespace: mastodon_tools
 permalink: /mastodon/tools/
 permalink_fr: /mastodon/outils/
+breadcrumbs:
+  - tools
+  - mastodon
 ---
 
 ## Basic Guides

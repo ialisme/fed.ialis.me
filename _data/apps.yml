@@ -6,6 +6,7 @@
       name: Amaroq
       link: https://appsto.re/us/OfFxib.i
       source: https://github.com/ReticentJohn/Amaroq
+
 - id: android
   apps:
     - id: tusky
@@ -21,3 +22,12 @@
       name: Twidere
       link: https://play.google.com/store/apps/details?id=org.mariotaku.twidere
       source: https://github.com/TwidereProject/Twidere-Android
+
+- id: terminal
+  apps:
+    - id: toot
+      name: Toot
+      link: https://github.com/ihabunek/toot
+      source: https://github.com/ihabunek/toot
+
+

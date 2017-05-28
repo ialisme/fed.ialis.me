@@ -13,6 +13,8 @@ categories:
   tools: Tools
   apps: Apps
   news: News
+  servers: Servers
+  resources: Resources
 
 pages:
   index: Home
@@ -30,15 +32,32 @@ titles:
   admin: Administrator's Guides
   servers: Servers software
   mastodon_tools: Tools for Mastodon
-  protocols: Standards protocols
+  mastodon_apps: Applications for Mastodon
+  protocols: OStatus - Standards protocols
+  resources: Resources
+
+descriptions:
+  protocols: The standardized technology behind the federation
 
 index:
   title: Welcome to the Fediverse
   subtitle: an open, free, decentralized and federated social network
+
+servers:
+  maturities:
+    stable: Stable
+    unstable: In Development
+    dead: Abandonned
 
 apps:
   get: Get
   platforms:
     ios: For iOS (iPhone, iPad)
     android: For Android
+    terminal: Command Line
 
+resources:
+  categories:
+    tools: Tools
+    search: Search
+    guides: Guides

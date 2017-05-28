@@ -1,0 +1,79 @@
+---
+layout: page
+title: titles.mastodon_apps
+namespace: mastodon_apps
+permalink: /mastodon/apps/
+permalink_fr: /mastodon/applications/
+category: apps
+server: mastodon
+breadcrumbs:
+  - apps
+  - mastodon
+---
+
+{% tf apps/content.md %}
+
+<nav class="tabs is-centered">
+  <ul>
+  {% for platform in site.data.apps %}
+  <li><a href="#{{ platform.id }}">{% t apps.platforms.{{ platform.id }} %}</a></li>
+  {% endfor %}
+  </ul>
+</nav>
+
+{% for platform in site.data.apps %}
+  <h2 id="{{ platform.id }}">{% t apps.platforms.{{ platform.id }} %}</h2>
+  <div class="columns">
+  {% for app in platform.apps %}
+  <div class="column is-one-third">
+    <div class="card">
+      <div class="card-content">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-48x48">
+              <img src="/assets/images/apps/{{ app.id }}.png">
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4"><a href="{{ app.link }}" class="is-large">{{ app.name }}</a></p>
+            <div class="subtitle is-6">
+              {% for server in app.server %}
+                <a href="{% tl {{ server }} %}" >
+                <span class="tag is-grey">{% t titles.{{ server }} %}</span>
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        </div>
+
+        <div class="content">
+          {% tf apps/{{ app.id }}.md %}
+        </div>
+      </div>
+
+      <div class="card-footer">
+        <a href="{{ app.link }}" class="card-footer-item">
+        {% t apps.get %}
+        </a>
+        {% if app.pricing %}
+          <span class="card-footer-item">
+          <strong>{{ app.pricing }}</strong>
+          </span>
+        {% else %}
+          <span class="card-footer-item">
+          {% t global.free %}
+          </span>
+        {% endif %}
+        {% if app.source %}
+          <a href="{{ app.source }}" class="card-footer-item">
+          {% t global.opensource %}
+          </a>
+        {% endif %}
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+{% endfor %}
+

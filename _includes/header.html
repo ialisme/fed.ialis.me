@@ -6,10 +6,22 @@
   <!-- Hero content: will be in the middle -->
   <div class="hero-body">
     <div class="container">
+      <p class="breadcrumbs">
+        {% if page.breadcrumbs %}
+        {% for parent in page.breadcrumbs %}
+        <a href="{% tl parent %}">{% t titles.{{ parent }} %}</a> /
+        {% endfor %}{% else %}
+        {% if page.category == page.namesapce %}
+        {% else %}
+        <a href="{% tl page.category %}">{% t categories.{{ page.category }} %}</a> /
+        {% endif %}{% endif %}
+      </p>
       <h1 class="title">
         {% t page.title %}
       </h1>
+      <br/>
       <h2 class="subtitle">
+        {% t page.description %}
       </h2>
     </div>
   </div>
