@@ -10,10 +10,10 @@
   background-color: rgba(48,68,76,0.9);
 }
 #smallhead .hero-body {
-  height: inherit;
+  height: 160px;
   padding: 1.5rem 1.5rem;
 }
-#smallhead .hero-body .title {
+#smallhead .hero-body .title, #smallhead .hero-body .subtitle {
   background-color: rgba(48,68,76,0.7);
   padding: 5px;
   display: inline-block
