@@ -171,7 +171,7 @@
     - meta
     
     
-"ambassador@a.weirder.eartg":
+"ambassador@a.weirder.earth":
   name: a.weirder.eartg Ambassador
   lang: en
   tags:
@@ -243,3 +243,16 @@
     - bots
     
     
+"LaQuadrature@mamot.fr":
+  name: La Quadrature du Net
+  lang: fr
+  tags:
+    - organization
+    
+    
+"arretsurimages@mamot.fr":
+  name: Arrêt sur Images
+  lang: fr
+  tags:
+    - news
+    -bots
