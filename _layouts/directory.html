@@ -31,11 +31,24 @@ layout: page
   <div class="column is-one-third">
     <div class="card">
       <div class="card-content">
-        <p class="title is-4">
-          <a href="{% mention {{ account[0] }} %}" class="is-large">{{ account[1].name }}</a>
-          <a href="{% follow {{ account[0] }} %}">+</a>
-        </p>
-        <div class="subtitle is-6">
+        <div class="media">
+          <div class="media-left">
+            <figure class="image is-48x48">
+              <a href="{% directory_user_profile {{account[0]}}%}" class="is-large">
+                <img src="{% directory_user_avatar {{account[0]}}%}" title="{{ account[0] }}" alt="{{ account[0] }} avatar">
+              </a>
+            </figure>
+          </div>
+          <div class="media-content">
+            <p class="title is-4">
+              <a href="{% directory_user_profile {{account[0]}}%}" class="is-large">{{ account[1].name }}</a>
+            </p>
+            <p class="subtitle is-6">
+              {{ account[0] }}
+            </p>
+          </div>
+        </div>
+        <div class="content">
           <a href="{% tl directory/lang-{{ account[1].lang }} %}" >
             <span class="tag is-white">{% t langs.{{ account[1].lang }} %}</span>
           </a>
@@ -44,8 +57,6 @@ layout: page
               <span class="tag is-grey">{% t directory.tags.{{ tag }} %}</span>
             </a>
           {% endfor %}
-        </div>
-        <div class="content">
         </div>
       </div>
 

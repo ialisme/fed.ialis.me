@@ -21,7 +21,6 @@
   name: NASA
   lang: en
   tags:
-    - bots
     - mirrors
 
 "lesjoursfr@mamot.fr":
@@ -40,7 +39,6 @@
   name: Libération.fr
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
     
@@ -48,7 +46,6 @@
   name: Le Figaro
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
 
@@ -56,7 +53,6 @@
   name: "L'Express"
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
   
@@ -71,7 +67,6 @@
   name: Hacker News
   lang: en
   tags:
-    - bots
     - mirrors
     - news
     
@@ -80,16 +75,14 @@
   name: BBC
   lang: en
   tags:
-    - bots
     - mirrors
-    -news
+    - news
     
     
 "rmcbfmi24@botsin.space":
   name: RMC/BMF/I24 News
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
     
@@ -98,17 +91,15 @@
   name: Arte
   lang: fr
   tags:
-    - bots
     - mirrors
-    -news
-    -culture
+    - news
+    - culture
     
     
 "afpfr@mastodon.nuzgo.net":
   name: AFP
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
     
@@ -117,7 +108,6 @@
   name: France Info
   lang: fr 
   tags:
-    - bots
     - mirrors
     - news
     
@@ -126,7 +116,6 @@
   name: Mediapart
   lang: fr
   tags:
-    - bots
     - mirrors
     - news
     
@@ -135,7 +124,6 @@
   name: The Guardian
   lang: en
   tags:
-    - bots
     - mirrors
     - news
     
@@ -144,7 +132,7 @@
   name: Technicalist Curator
   lang: en
   tags:
-    - curator
+    - curators
     
     
 "paris-lutte@mamot.fr":
@@ -159,5 +147,4 @@
   lang: fr
   tags: 
     - parodic news
-    - bots
     - mirrors

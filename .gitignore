@@ -2,3 +2,6 @@ _site/
 .sass-cache/
 .jekyll-metadata
 _data/instances_mastodon.json
+_data/directory_users.json
+assets/images/directory_avatars/*.png
+

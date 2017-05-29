@@ -1,13 +1,12 @@
 language: ruby
 rvm:
 - 2.4.1
-script: bundle exec jekyll build
+script: ./script/build.sh
 branches:
   only:
   - master
 before_script:
   - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
-  - ./refresh_data.sh
 after_success:
   - openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy_rsa.enc -out .travis/deploy_rsa -d
   - chmod 600 .travis/deploy_rsa

@@ -76,3 +76,10 @@
     - tools
     - mastodon
 
+- id: infotootworks
+  name: "Mastodon Bot Directory"
+  lang: en
+  link: https://info.toot.works/bots/
+  categories:
+    - tools
+
