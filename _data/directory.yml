@@ -148,3 +148,98 @@
   tags: 
     - parodic news
     - mirrors
+
+
+"mnm@mastodon.eliotberriot.com":
+  name: MNM
+  lang: en
+  tags:
+    - meta
+
+   
+"mastodonusercount@social.lou.it":
+  name: Mastodon User
+  lang: en
+  tags:
+    - meta
+   
+    
+"actual_instances@misanthropy.wang":
+  name: Actual Mastodon Instances
+  lang: en
+  tags:
+    - meta
+    
+    
+"ambassador@a.weirder.eartg":
+  name: a.weirder.eartg Ambassador
+  lang: en
+  tags:
+    - curators
+    - bots
+    
+    
+"AmbassadorBot@mst3k.interlinked.me":
+  name: mst3k Ambassador Bot
+  lang: en
+  tags:
+    - curators
+    - bots
+    
+    
+"federationbot@mastodon.direct":
+  name: Federation Bot
+  lang: en
+  tags:
+    - bots
+    - meta
+    
+    
+"aquarium@botsin.space":
+  name: Emoji Aquarium
+  lang: all
+  tags:
+    - art
+    - bots
+    
+    
+"inkblot@toot.works":
+  name: Inkblot
+  lang: all
+  tags:
+    - art
+    - bots
+    
+    
+"HowCostETH@masto.themimitoof.fr":
+  name: How Cost ETH?
+  lang: en
+  tags: 
+    - news
+    - bots
+    
+    
+"HowCostBTC@masto.themimitoof.fr":
+  name: How Cost BTC?
+  lang: en
+  tags:
+    - news
+    - bots
+ 
+   
+"phys@social.oalm.gub.uy":
+  name: Phys
+  lang: en
+  tags:
+    - news
+    - bots
+    
+    
+"nasa@social.oalm.gub.uy":
+  name: NASA
+  lang: en
+  tags:
+    - news
+    - bots
+    
+    
