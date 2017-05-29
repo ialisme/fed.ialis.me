@@ -6,17 +6,17 @@ layout: page
 
 <div class="level">
   <div class="level-left">
-    <nav class="tabs is-centered">
+    <nav class="tabs">
       <ul>
-      <li><a href="{% tl directory %}" class="is-active">{% t directory.tags.all %}</a></li>
+      <li {% if page.tag == 'all' %}class="is-active"{% endif %}><a href="{% tl directory %}">{% t directory.tags.all %}</a></li>
       {% for tag in site.data.directory_tags %}
-      <li><a href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a></li>
+      <li {% if page.tag == tag %}class="is-active"{% endif %}><a href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a></li>
       {% endfor %}
       </ul>
     </nav>
   </div>
   <div class="level-right">
-    <nav class="tabs is-centered">
+    <nav class="tabs">
       <ul>
         <li><a href="{% tl directory %}">All Languages</a></li>
 <!-- TODO        <li><a href="#">EN</a></li>
@@ -28,7 +28,12 @@ layout: page
 
   <div class="columns is-multiline">
   {% for account in site.data.directory %}
-  <div class="column is-one-third">
+    {% unless page.tag == "all" %}
+    {% unless account[1].tags contains page.tag %}
+    {% continue %}
+    {% endunless %}
+    {% endunless %}
+  <div class="column is-one-third lang-{{ account[1].lang }}" id="card-{{ account[0] }}">
     <div class="card">
       <div class="card-content">
         <div class="media">
@@ -44,7 +49,7 @@ layout: page
               <a href="{% directory_user_profile {{account[0]}}%}" class="is-large">{{ account[1].name }}</a>
             </p>
             <p class="subtitle is-6">
-              {{ account[0] }}
+              @{{ account[0] }}
             </p>
           </div>
         </div>

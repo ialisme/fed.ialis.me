@@ -85,7 +85,6 @@ module DirectoryUsers
       puts user.inspect
       user["avatar_url"] || "/assets/images/missing_avatar.png"
     end
-
   end
 
 end

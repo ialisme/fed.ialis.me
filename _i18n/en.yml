@@ -8,6 +8,8 @@ langs:
   all: Any
   en: English
   fr: French
+  es: Spanish
+
 categories:
   guides: Guides
   instances: Instances
@@ -42,6 +44,10 @@ titles:
   directory_mirrors: Mirrors
   directory_news: News
   directory_curators: Curators
+  directory_culture: Culture
+  directory_art: Art
+  directory_economy: Economy
+  directory_organizations: Organizations
   directory_meta: Meta
 
 descriptions:
@@ -78,5 +84,8 @@ directory:
     meta: Meta
     news: News
     curators: Curators
-
+    culture: Culture
+    art: Art
+    economy: Economy
+    organizations: Organizations
 

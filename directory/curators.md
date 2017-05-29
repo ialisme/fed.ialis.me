@@ -1,6 +1,6 @@
 ---
 layout: directory
-title: titles.directory_curator
+title: titles.directory_curators
 tag: curators
 namespace: directory/curators
 permalink: /directory/curators/

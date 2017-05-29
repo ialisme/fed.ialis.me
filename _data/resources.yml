@@ -83,3 +83,11 @@
   categories:
     - tools
 
+- id: discourse
+  name: "Mastodon Meta discussion board"
+  lang: en
+  link: https://discourse.joinmastodon.org/
+  categories:
+    - meta
+    - mastodon
+
