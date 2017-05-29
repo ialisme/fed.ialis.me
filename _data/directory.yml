@@ -232,7 +232,7 @@
   lang: en
   tags:
     - news
-    - bots
+    - mirrors
     
     
 "nasa@social.oalm.gub.uy":
@@ -240,7 +240,7 @@
   lang: en
   tags:
     - news
-    - bots
+    - mirrors
     
     
 "LaQuadrature@mamot.fr":
@@ -255,4 +255,117 @@
   lang: fr
   tags:
     - news
-    -bots
+    
+    
+"intercept@social.undernet.uy":
+  name: The intercept
+  lang: en
+  tags:
+    - news
+    - mirrors
+    
+    
+"lr21@social.undernet.uy":
+  name: LR21
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"mvdcomm@social.undernet.uy":
+  name: Montevideo COMM
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"portal180@social.undernet.uy":
+  name: Portal180
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"sociedaduruguaya@social.undernet.uy":
+  name: Sociedad Uruguaya
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"uypress@social.undernet.uy":
+  name: UY Press
+  lang; es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"brecha@social.undernet.uy":
+  name: UY Press
+  lang: es
+  tags: 
+    - news
+    - mirrors
+  
+  
+"espectador810@social.undernet.uy":
+  name: El Espectador
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"elobservador@social.undernet.uy":
+  name: El Observador
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"elpais@social.undernet.uy":
+  name: El País
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"larepublica@social.undernet.uy":
+  name: La República
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"presidencia@social.undernet.uy":
+  name: Presidencia
+  lang: es
+  tags:
+    - news
+    - mirrors
+  
+  
+"lanacion@social.undernet.uy":
+  name: La Nación
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"infobae@social.undernet.uy":
+  name: Infobae
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
