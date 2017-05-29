@@ -235,7 +235,7 @@
   tags:
     - news
     - mirrors
-    - sciences
+    - science
     
     
 "nasa@social.oalm.gub.uy":
@@ -244,7 +244,7 @@
   tags:
     - news
     - mirrors
-    - sciences
+    - science
     
 "LaQuadrature@mamot.fr":
   name: La Quadrature du Net
@@ -537,7 +537,7 @@
   name: Sky&Telescope
   lang: en
   tags:
-    - sciences
+    - science
     - bots
     
     
@@ -545,12 +545,26 @@
   name: DX Zone
   lang: en
   tags:
-    - sciences
-    - cultures
+    - science
+    - culture
     
     
 "aanda@social.undernet.uy":
   name: Astronomy and Astrophysics
   lang: en
   tags: 
-    - sciences
+    - science
+
+"reflets@mastodon.social":
+  name: Reflets.info
+  lang: fr
+  tags:
+    - news
+
+"@Marchillect@social.tchncs.de":
+  name: Marchillect
+  lang: all
+  tags:
+    - mirrors
+    - art
+

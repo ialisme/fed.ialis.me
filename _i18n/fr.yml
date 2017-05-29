@@ -47,6 +47,7 @@ titles:
   directory_meta: Meta
   directory_culture: Culture
   directory_art: Art
+  directory_science: Science
   directory_economy: Économie
   directory_organizations: Organisations
 
@@ -77,6 +78,7 @@ directory:
     curators: Curateurs
     culture: Culture
     art: Art
+    science: Science
     economy: Économie
     organizations: Organisations
 
