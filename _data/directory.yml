@@ -217,6 +217,7 @@
   tags: 
     - news
     - bots
+    - economy
     
     
 "HowCostBTC@masto.themimitoof.fr":
@@ -225,6 +226,7 @@
   tags:
     - news
     - bots
+    - economy
  
    
 "phys@social.oalm.gub.uy":
@@ -233,6 +235,7 @@
   tags:
     - news
     - mirrors
+    - sciences
     
     
 "nasa@social.oalm.gub.uy":
@@ -241,7 +244,7 @@
   tags:
     - news
     - mirrors
-    
+    - sciences
     
 "LaQuadrature@mamot.fr":
   name: La Quadrature du Net
@@ -369,4 +372,185 @@
     - mirrors
     
     
+"pagina12@social.undernet.uy":
+  name: Página12
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"ambitofinanciero@social.undernet.uy":
+  name: Ámbito Financiero
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"eldesconcierto@social.undernet.uy"
+  name: El Desconcierto
+  lang: es
+  tags:
+    - news
+    - mirrors
  
+
+"elmostrador@social.undernet.uy":
+  name: El Mostrador
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"lamarea@social.undernet.uy":
+  name: La Marea
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"lahaine@sociall.undernet.uy":
+  name: La Haine
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"alasbarricadas@social.undernet.uy":
+  name: A Las Barricadas
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"horizontal@social.undernet.uy":
+  name: Horizontal
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"eljueves@social.undernet.uy":
+  name: El Jueaves
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"diagonal@social.undernet.uy":
+  name: Periódico Diagonal
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"derechosdigitales@social.undernet.uy":
+  name: Derechos Digitales
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"ciperchile@social.undernet.uy":
+  name: Ciper Chile
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"radiouchile@social.undernet.uy":
+  name: RadioUChile
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"revistaanfibia@social.undernet.uy":
+  name: Revista Anfibia
+  lang: es
+  tags: 
+    - news
+    - mirrors
+    
+    
+"portaloaca@social.undernet.uy":
+  name: Portal OACA
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"adnradio@social.undernet.uy":
+  name: ADN Radio
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"amnesty@social.undernet.uy":
+  name: Amnesty International
+  lang: en
+  tags:
+    - news
+    - organizations
+    - mirrors
+    
+    
+"rt@social.undernet.uy":
+  name: RT
+  lang: en
+  tags: 
+    - news
+    - mirrors
+    
+    
+"democracynow@social.undernet.uy":
+  name: DemocracyNow!
+  lang: es
+  tags:
+    - news
+    - mirrors
+    
+    
+"spiegel@social.undernet.uy":
+  name: Spiegel
+  lang: es
+  tags:
+    - news 
+    - mirrors
+    
+  
+"skyandtelescope@social.undernet.uy":
+  name: Sky&Telescope
+  lang: en
+  tags:
+    - sciences
+    - bots
+    
+    
+"dxzone@social.undernet.uy":
+  name: DX Zone
+  lang: en
+  tags:
+    - sciences
+    - cultures
+    
+    
+"aanda@social.undernet.uy":
+  name: Astronomy and Astrophysics
+  lang: en
+  tags: 
+    - sciences
