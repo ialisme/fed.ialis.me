@@ -36,3 +36,128 @@
   tags:
     - curators
 
+"liberation@mastodon.nuzgo.net":
+  name: Libération.fr
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+"lefigarobot@politebot.com":
+  name: Le Figaro
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+
+"lexpress@framapiaf.org":
+  name: "L'Express"
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+  
+"lecanardenchaine@mamot.fr":
+  name: Le Canard Enchaîné
+  lang: fr
+  tags: 
+    - news
+    
+   
+"hntooter@mastodon.social":
+  name: Hacker News
+  lang: en
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+
+"bbc@social.undernet.uy":
+  name: BBC
+  lang: en
+  tags:
+    - bots
+    - mirrors
+    -news
+    
+    
+"rmcbfmi24@botsin.space":
+  name: RMC/BMF/I24 News
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+    
+"artefr@mamot.fr":
+  name: Arte
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    -news
+    -culture
+    
+    
+"afpfr@mastodon.nuzgo.net":
+  name: AFP
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+    
+"franceinfo@nuzgo.net":
+  name: France Info
+  lang: fr 
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+    
+"Mediapart@mastodon.social":
+  name: Mediapart
+  lang: fr
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+    
+"guardian@social.undernet.uy":
+  name: The Guardian
+  lang: en
+  tags:
+    - bots
+    - mirrors
+    - news
+    
+    
+"curator@techn.ical.ist":
+  name: Technicalist Curator
+  lang: en
+  tags:
+    - curator
+    
+    
+"paris-lutte@mamot.fr":
+  name: Paris Lutte Info
+  lang: fr
+  tags:
+    - news
+    
+    
+"le_gorafi@mastodon.social":
+  name: Le Gorafi
+  lang: fr
+  tags: 
+    - parodic news
+    - bots
+    - mirrors
