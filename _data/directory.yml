@@ -1,0 +1,38 @@
+"translator@toot.works":
+  name: Translator Bot
+  lang: all
+  tags:
+    - bots
+
+"mastodonusercount@social.lou.lt":
+  name: User Count Bot
+  lang: en
+  tags:
+    - bots
+    - meta
+
+"bigben@mastodon.org.uk":
+  name: Big Ben Bot
+  lang: en
+  tags:
+    - bots
+
+"nasa@apoil.org":
+  name: NASA
+  lang: en
+  tags:
+    - bots
+    - mirrors
+
+"lesjoursfr@mamot.fr":
+  name: LesJours.fr
+  lang: fr
+  tags:
+    - news
+
+"Curator@mastodon.art":
+  name: Mastodon.ART Curator
+  lang: en
+  tags:
+    - curators
+

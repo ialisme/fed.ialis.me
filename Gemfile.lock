@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/hrefhref/jekyll-multiple-languages-plugin.git
-  revision: 4f9c362eb6e9f9884232a60dd98c1f1072a2c77e
+  revision: 00a1afa6b1733cb154976a8032fde0e2bdff1849
   specs:
     jekyll-multiple-languages-plugin (1.5.1)
       jekyll (>= 2.0, < 4.0)

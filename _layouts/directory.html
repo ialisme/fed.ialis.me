@@ -1,0 +1,56 @@
+---
+layout: page
+---
+
+{% tf {{ page.namespace }}/content.md %}
+
+<div class="level">
+  <div class="level-left">
+    <nav class="tabs is-centered">
+      <ul>
+      <li><a href="{% tl directory %}" class="is-active">{% t directory.tags.all %}</a></li>
+      {% for tag in site.data.directory_tags %}
+      <li><a href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a></li>
+      {% endfor %}
+      </ul>
+    </nav>
+  </div>
+  <div class="level-right">
+    <nav class="tabs is-centered">
+      <ul>
+        <li><a href="{% tl directory %}">All Languages</a></li>
+<!-- TODO        <li><a href="#">EN</a></li>
+<li><a href="#">FR</a></li>-->
+      </ul>
+    </nav>
+  </div>
+</div>
+
+  <div class="columns is-multiline">
+  {% for account in site.data.directory %}
+  <div class="column is-one-third">
+    <div class="card">
+      <div class="card-content">
+        <p class="title is-4">
+          <a href="{% mention {{ account[0] }} %}" class="is-large">{{ account[1].name }}</a>
+          <a href="{% follow {{ account[0] }} %}">+</a>
+        </p>
+        <div class="subtitle is-6">
+          <a href="{% tl directory/lang-{{ account[1].lang }} %}" >
+            <span class="tag is-white">{% t langs.{{ account[1].lang }} %}</span>
+          </a>
+          {% for tag in account[1].tags %}
+            <a href="{% tl directory/{{ tag }} %}" >
+              <span class="tag is-grey">{% t directory.tags.{{ tag }} %}</span>
+            </a>
+          {% endfor %}
+        </div>
+        <div class="content">
+        </div>
+      </div>
+
+    </div>
+  </div>
+  {% endfor %}
+  </div>
+

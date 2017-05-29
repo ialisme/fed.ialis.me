@@ -6,23 +6,24 @@ branches:
   only:
   - master
 before_script:
-- echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+  - echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+  - ./refresh_data.sh
 after_success:
-- openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy_rsa.enc -out .travis/deploy_rsa -d
-- chmod 600 .travis/deploy_rsa
-- eval `ssh-agent -s`
-- ssh-add .travis/deploy_rsa
-- rm -rf _deploy
-- mkdir _deploy
-- cd _deploy
-- git clone https://github.com/ialisme/fed.ialis.me.git --branch=gh-pages .
-- git remote add deploy git@github.com:ialisme/fed.ialis.me.git
-- rsync -avzh ../_site/ ./
-- git add .
-- git config --global user.name "$GIT_NAME"
-- git config --global user.email "$GIT_EMAIL"
-- git commit -m "New site version. Committed by Travis-CI."
-- git push deploy gh-pages
+  - openssl aes-256-cbc -K $encrypted_8c0295a6c6f0_key -iv $encrypted_8c0295a6c6f0_iv -in .travis/deploy_rsa.enc -out .travis/deploy_rsa -d
+  - chmod 600 .travis/deploy_rsa
+  - eval `ssh-agent -s`
+  - ssh-add .travis/deploy_rsa
+  - rm -rf _deploy
+  - mkdir _deploy
+  - cd _deploy
+  - git clone https://github.com/ialisme/fed.ialis.me.git --branch=gh-pages .
+  - git remote add deploy git@github.com:ialisme/fed.ialis.me.git
+  - rsync -avzh ../_site/ ./
+  - git add .
+  - git config --global user.name "$GIT_NAME"
+  - git config --global user.email "$GIT_EMAIL"
+  - git commit -m "Deployed website updates via travis-ci."
+  - git push deploy gh-pages
 notifications:
   irc:
     on_success: change

@@ -5,8 +5,9 @@ global:
   opensource: Open Source
   free: Free
 langs:
+  all: Any
   en: English
-  fr: Français
+  fr: French
 categories:
   guides: Guides
   instances: Instances
@@ -15,6 +16,7 @@ categories:
   news: News
   servers: Servers
   resources: Resources
+  directory: Directory
 
 pages:
   index: Home
@@ -35,6 +37,12 @@ titles:
   mastodon_apps: Applications for Mastodon
   protocols: OStatus - Standards protocols
   resources: Resources
+  directory: Directory
+  directory_bots: Bots
+  directory_mirrors: Mirrors
+  directory_news: News
+  directory_curators: Curators
+  directory_meta: Meta
 
 descriptions:
   protocols: The standardized technology behind the federation
@@ -61,3 +69,14 @@ resources:
     tools: Tools
     search: Search
     guides: Guides
+
+directory:
+  tags:
+    all: All
+    bots: Bots
+    mirrors: Mirrors
+    meta: Meta
+    news: News
+    curators: Curators
+
+

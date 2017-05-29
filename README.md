@@ -2,6 +2,8 @@
 
 **WIP**
 
+<img src="https://raw.githubusercontent.com/ialisme/fed.ialis.me/master/assets/images/header_outline.png" />
+
 Content and sources are licensed in the public domain / [Unlicense](http://unlicense.org).
 
 As the website is a work in progress right now we invite all repo collaborators to just work in `master` branch. Once

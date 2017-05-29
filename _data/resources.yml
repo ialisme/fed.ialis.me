@@ -1,63 +1,78 @@
 -
+  id: mastoguide
   name: "Mastodon User Guide"
   lang: en
   link: http://mastoguide.info
   categories:
     - guides
+    - mastodon
 
-- name: "Mastodon Wiki (english)"
+- id: mstdn_wiki_en
+  name: "Mastodon Wiki (english)"
   lang: en
   link: http://en.mstdn.wiki/Main_Page
   categories:
     - guides
+    - mastodon
 
-- name: "Mastodon Wiki (french)"
+- id: mstdn_wiki_fr
+  name: "Mastodon Wiki (french)"
   lang: fr
   link: http://fr.mstdn.wiki/Main_Page
   categories:
     - guides
+    - mastodon
 
-- name: "Mastodon Wiki (japanese)"
+- id: mstdn_wiki_ja
+  name: "Mastodon Wiki (japanese)"
   lang: ja
   link: http://ja.mstdn.wiki/Main_Page
   categories:
     - guides
+    - mastodon
 
-
-- name: "Mastodon Instances list"
+- id: mastodon_list
+  name: "Mastodon Instances list"
   lang: en
   link: https://instances.mastodon.xyz/list
   categories:
     - fediverse
+    - mastodon
 
-- name: "Fediverse Radar"
+- id: amberstone_radar
+  name: "Fediverse Radar"
   lang: en
   link: https://radar.amberstone.digital/
   categories:
     - fediverse
 
-
-- name: "Tuskr"
+- id: tuskr
+  name: "Tuskr"
   lang: en
   link: http://tuskr.xyz
   categories:
     - search
 
-- name: "Mastory - Mastodon user directory"
+- id: mastory
+  name: "Mastory - Mastodon user directory"
   lang: en
   link: http://mastory.social/
   categories:
     - search
 
-- name: "dlvrit - toot to tweets"
+- id: dlvrit
+  name: "dlvrit - toot to tweets"
   lang: en
   link: https://dlvrit.com/
   categories:
     - tools
+    - mastodon
 
-- name: "mastofeed - embedded mastodon"
+- id: mastofeed
+  name: "mastofeed - embedded mastodon"
   lang: en
   link: https://www.mastofeed.com/
   categories:
     - tools
+    - mastodon
 

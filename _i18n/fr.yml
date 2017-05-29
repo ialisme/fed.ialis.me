@@ -5,7 +5,8 @@ global:
   opensource: Source ouverte
   free: Gratuit
 langs:
-  en: English
+  all: Toutes
+  en: Anglais
   fr: Français
 categories:
   guides: Guides
@@ -13,6 +14,9 @@ categories:
   tools: Outils
   apps: Applications
   news: Actualité
+  servers: Serveurs
+  resources: Ressources
+  directory: Répertoire
 
 pages:
   index: Accueil
@@ -30,6 +34,15 @@ titles:
   admin: Guides de l'Administrateur
   servers: Serveurs
   mastodon_tools: Outils pour Mastodon
+  mastodon_apps: Applications pour Mastodon
+  protocols: OStatus - Protocoles standards
+  resources: Ressources
+  directory: Répertoire
+  directory_bots: Robots
+  directory_mirrors: Relais
+  directory_news: Actualités
+  directory_curators: Curateurs
+  directory_meta: Meta
 
 index:
   title: Bienvenue sur le Fediverse
@@ -40,3 +53,19 @@ apps:
   platforms:
     ios: Pour iOS (iPhone, iPad)
     android: Pour Android
+    terminal: Invite de commande
+
+resources:
+  categories:
+    tools: Outils
+    search: Recherche
+    guides: Guides
+
+directory:
+  tags:
+    all: Tout
+    bots: Robots
+    mirrors: Relais
+    meta: Meta
+    news: Actualités
+    curators: Curateurs

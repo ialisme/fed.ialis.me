@@ -19,7 +19,7 @@ category: apps
 
 {% for platform in site.data.apps %}
   <h2 id="{{ platform.id }}">{% t apps.platforms.{{ platform.id }} %}</h2>
-  <div class="columns">
+  <div class="columns is-multiline">
   {% for app in platform.apps %}
   <div class="column is-one-third">
     <div class="card">

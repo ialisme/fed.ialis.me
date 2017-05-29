@@ -29,5 +29,8 @@
       name: Toot
       link: https://github.com/ihabunek/toot
       source: https://github.com/ihabunek/toot
-
+    - id: madonctl
+      name: madonctl
+      link: https://lilotux.net/~mikael/pub/madonctl/
+      source: https://github.com/McKael/madonctl
 
