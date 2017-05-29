@@ -299,7 +299,7 @@
     
 "uypress@social.undernet.uy":
   name: UY Press
-  lang; es
+  lang: es
   tags: 
     - news
     - mirrors
@@ -369,3 +369,4 @@
     - mirrors
     
     
+ 
