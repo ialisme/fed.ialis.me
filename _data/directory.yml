@@ -533,7 +533,7 @@
     - mirrors
     
   
-"skyandtelescope@social.undernet.uy":
+"skyandtelescope@social.oalm.gub.uy":
   name: Sky&Telescope
   lang: en
   tags:
@@ -549,7 +549,7 @@
     - culture
     
     
-"aanda@social.undernet.uy":
+"aanda@social.oalm.gub.uy":
   name: Astronomy and Astrophysics
   lang: en
   tags: 
@@ -561,10 +561,288 @@
   tags:
     - news
 
-"@Marchillect@social.tchncs.de":
+"Marchillect@social.tchncs.de":
   name: Marchillect
   lang: all
   tags:
     - mirrors
     - art
 
+
+"aavso@social.oalm.gub.uy":
+  name: AAVSO
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"aip@social.oalm.gub.uy":
+  name: American Institute of Physics
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"aps@social.oalm.gub.uy":
+  name: American Physical Society
+  lang: en
+  tags: 
+    - sciences
+    - mirrors
+    
+    
+"astronomycast@social.oalm.gub.uy":
+  name: Astronomy Cast
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"natgeo@social.oalm.gub.uy":
+  name: National Geographic 
+  lang: en
+  tags:
+    - sciences
+    - culture
+    - mirrors
+    
+    
+"nature@social.oalm.gub.uy":
+  name: Nature
+  lang: en
+  tags:
+    - sciences
+    - culture
+    - mirrors
+    
+    
+"physicsworld@social.oalm.gub.uy":
+  name: Physics World
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"scientificamerican@social.oalm.gub.uy":
+  name: Scientific American
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"space@social.oalm.gub.uy":
+  name: Space
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"universetoday@social.oalm.gub.uy ":
+  name: Universe Today
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"watchers@social.oalm.gub.uy":
+  name: Watchers 
+  lang: en
+  tags:
+    - sciences
+    - mirrors
+    
+    
+"tedtalks@social.undernet.uy":
+  name: TED Talks
+  lang: en
+  tags:
+    - sciences
+    - technology
+    - mirrors
+    
+    
+"steam@social.undernet.uy":
+  name: Steam
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"cnet@social.undernet.uy":
+  name: CNET
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"theverge@social.undernet.uy":
+  name: The Verge
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"gizmodo@social.undernet.uy":
+  name: Gizmodo
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"wired@social.undernet.uy":
+  name: Wired
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"arstechnica@social.undernet.uy":
+  name: Ars Technica
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"phoronix@social.undernet.uy":
+  name: Phoronix
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"register@social.undernet.uy":
+  name: The Register
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"darkreading@social.undernet.uy":
+  name: Dark Reading
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"debian@quitter.se":
+  name: Debian
+  lang: en
+  tags:
+    - technology
+    - bots
+    
+    
+"trustedsec@social.undernet.uy":
+  name: TrustedSec
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"threatpost@social.undernet.uy":
+  name: ThreatPost
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"nakedsecurity@social.undernet.uy":
+  name: Naked Security
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"torproject@social.undernet.uy":
+  name: TorProject
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    - organizations
+    
+    
+"netsec@social.undernet.uy":
+  name: /r/netsec
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"fayerwayer@social.undernet.uy":
+  name: FayerWayer
+  lang: en
+  tags:
+    - technology
+    - mirrors
+    
+    
+"powermetal@social.undernet.uy":
+  name: Powermetal
+  lang: es
+  tags:
+    - music
+    - mirrors
+    
+    
+"blabbermouth@social.undernet.uy":
+  name: Blabbermouth
+  lang: en
+  tags:
+    - music
+    - mirrors
+    
+    
+"smbc@social.undernet.uy":
+  name: SMBC
+  lang: en
+  tags:
+    - art
+    - mirrors
+    - entertrainement 
+    
+    
+"xkcd@social.undernet.uy":
+  name: XKCD
+  lang: en
+  tags:
+    - art
+    - mirrors
+    - entertrainement
+    
+    
+"dpreview@social.undernet.uy":
+  name: DPReview
+  lang: en
+  tags:
+    - art
+    - mirrors
+    
+
+"lizclimo@social.undernet.uy":
+  name: Liz Climo
+  lang: en
+  tags:
+    - art
+    - entertrainement
+    - mirrors
