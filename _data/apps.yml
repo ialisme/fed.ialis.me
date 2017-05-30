@@ -26,11 +26,24 @@
 - id: terminal
   apps:
     - id: toot
+      server:
+        - mastodon
       name: Toot
       link: https://github.com/ihabunek/toot
       source: https://github.com/ihabunek/toot
     - id: madonctl
+      server:
+        - mastodon
       name: madonctl
       link: https://lilotux.net/~mikael/pub/madonctl/
       source: https://github.com/McKael/madonctl
+
+- id: web
+  apps:
+    - id: tooty
+      server:
+        - mastodon
+      name: Tooty
+      link: https://n1k0.github.io/tooty/
+      source: https://github.com/n1k0/tooty
 

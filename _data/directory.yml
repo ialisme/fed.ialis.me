@@ -568,7 +568,7 @@
   name: AAVSO
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -576,7 +576,7 @@
   name: American Institute of Physics
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -584,7 +584,7 @@
   name: American Physical Society
   lang: en
   tags: 
-    - sciences
+    - science
     - mirrors
     
     
@@ -592,7 +592,7 @@
   name: Astronomy Cast
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -600,7 +600,7 @@
   name: National Geographic 
   lang: en
   tags:
-    - sciences
+    - science
     - culture
     - mirrors
     
@@ -609,7 +609,7 @@
   name: Nature
   lang: en
   tags:
-    - sciences
+    - science
     - culture
     - mirrors
     
@@ -618,7 +618,7 @@
   name: Physics World
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -626,7 +626,7 @@
   name: Scientific American
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -634,7 +634,7 @@
   name: Space
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -642,7 +642,7 @@
   name: Universe Today
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -650,7 +650,7 @@
   name: Watchers 
   lang: en
   tags:
-    - sciences
+    - science
     - mirrors
     
     
@@ -658,7 +658,7 @@
   name: TED Talks
   lang: en
   tags:
-    - sciences
+    - science
     - technology
     - mirrors
     
@@ -970,5 +970,45 @@
   tags:
     - mirrors
     - organizations
-    
-    
+
+
+"anarchismhub@todon.nl":
+  name: Anarchism News
+  lang: en
+  tags:
+    - news
+
+"WTF@mastodon.etalab.gouv.fr":
+  name: Glossary Bot
+  lang: fr
+  tags:
+    - bots
+
+"luna@ephemeral.glitch.social":
+  name: Luna
+  lang: all
+  tags:
+    - bots
+    - art
+
+"fortune@freezepeach.xyz":
+  name: Fortune
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
+"markov@gs.kawa-kun.com":
+  name: Andrey Markov
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
+
+"anarchismehub@todon.nl":
+  name: Anarchisme-nieuws
+  lang: de
+  tags:
+    - news
+
