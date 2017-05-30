@@ -9,6 +9,7 @@ langs:
   en: English
   fr: French
   es: Spanish
+  de: German
 
 categories:
   guides: Guides
@@ -53,6 +54,7 @@ titles:
   directory_technology: Technology
   directory_entertrainement: Entertrainement
   directory_music: Music
+
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
   protocols: The standardized technology behind the federation
@@ -74,6 +76,7 @@ apps:
     ios: For iOS (iPhone, iPad)
     android: For Android
     terminal: Command Line
+    web: Web
 
 resources:
   categories:
