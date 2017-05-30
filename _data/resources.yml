@@ -99,3 +99,11 @@
     - meta
     - gnusocial
 
+- id: karpguide
+  name: "The Unofficial GNU Social Documentation"
+  lang: en
+  link: https://karp.id.au/social/en/index.html
+  categories:
+    - guides
+    - gnusocial
+

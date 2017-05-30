@@ -9,3 +9,17 @@
   link: http://gnu.io
   source: http://gnu.io
   maturity: stable
+-
+  id: friendica
+  name: Friendica
+  link: https://friendi.ca
+  source: https://github.com/friendica/friendica
+  maturity: stable
+-
+  id: qvitter
+  name: Qvitter
+  link: https://git.gnu.io/h2p/Qvitter
+  source: https://git.gnu.io/h2p/Qvitter
+  maturity: stable
+
+
