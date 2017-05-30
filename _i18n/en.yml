@@ -50,7 +50,9 @@ titles:
   directory_economy: Economy
   directory_organizations: Organizations
   directory_meta: Meta
-
+  directory_technology: Technology
+  directory_entertrainement: Entertrainement
+  directory_music: Music
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
   protocols: The standardized technology behind the federation
@@ -92,4 +94,7 @@ directory:
     science: Science
     economy: Economy
     organizations: Organizations
+    technology: Technology
+    music: Music
+    entertrainement: Entertrainement
 

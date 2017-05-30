@@ -50,6 +50,9 @@ titles:
   directory_science: Science
   directory_economy: Économie
   directory_organizations: Organisations
+  directory_music: Musique
+  directory_technology: Technologie
+  directory_entertrainement: Divertissement
 
 index:
   title: Bienvenue sur le Fediverse
@@ -81,4 +84,7 @@ directory:
     science: Science
     economy: Économie
     organizations: Organisations
+    technology: Technologie
+    music: Musique
+    entertrainement: Divertissement
 
