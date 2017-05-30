@@ -33,6 +33,8 @@ titles:
   apps: Applications
   mastodon: Mastodon
   gnusocial: GNU Social
+  friendica: Friendica
+  qvitter: Qvitter
   guides: Guides
   admin: Administrator's Guides
   servers: Servers software
