@@ -28,7 +28,7 @@ notifications:
     on_success: change
     on_failure: change
     channels:
-    - ircs://irc.random.sh:6667/#random
+    - ircs://irc.random.sh:6667/#log
     template:
     - "%{repository}#%{build_number} (%{branch}) %{message} %{build_url}"
 before_install:

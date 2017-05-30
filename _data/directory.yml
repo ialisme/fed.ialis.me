@@ -1024,7 +1024,7 @@
   tags:
     - entertrainement
 
-"dsn_status@botsin.space"
+  "dsn_status@botsin.space":
   name: "NASA's Deep Space Network"
   lang: en
   tags:
