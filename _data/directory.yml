@@ -4,7 +4,7 @@
   tags:
     - bots
 
-"mastodonusercount@social.lou.lt":
+"mastodonusercount@lou.lt":
   name: User Count Bot
   lang: en
   tags:
@@ -34,6 +34,7 @@
   lang: en
   tags:
     - curators
+    - art
 
 "liberation@mastodon.nuzgo.net":
   name: Libération.fr
@@ -135,7 +136,7 @@
     - curators
     
     
-"paris-lutte@mamot.fr":
+"paris_lutte@mamot.fr":
   name: Paris Lutte Info
   lang: fr
   tags:
@@ -146,7 +147,7 @@
   name: Le Gorafi
   lang: fr
   tags: 
-    - parodic news
+    - entertainements
     - mirrors
 
 
@@ -157,12 +158,6 @@
     - meta
 
    
-"mastodonusercount@social.lou.it":
-  name: Mastodon User
-  lang: en
-  tags:
-    - meta
-   
     
 "actual_instances@misanthropy.wang":
   name: Actual Mastodon Instances
@@ -172,7 +167,7 @@
     
     
 "ambassador@a.weirder.earth":
-  name: a.weirder.eartg Ambassador
+  name: a.weirder.earth Ambassador
   lang: en
   tags:
     - curators
