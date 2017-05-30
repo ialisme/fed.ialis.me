@@ -1012,3 +1012,68 @@
   tags:
     - news
 
+"journalduhacker@framapiaf.org":
+  name: Journal du Hacker
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+    
+    
+"wikileaks@quitter.im":
+  name: WikiLeaks
+  lang: en
+  tags:
+    - news
+    - organizations
+    
+    
+"mdiplo@mamot.fr":
+  name: Monde Diplomatique
+  lang: fr
+  tags:
+    - news
+    - mirrors
+    
+    
+"journalduhacker@framapiaf.org":
+  name: Journal du Hacker
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+    
+    
+"NextInpact@mamot.fr":
+  name: Next Impact
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+    
+    
+"numerama@social.numerama.com":
+  name: Numera
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+    
+    
+"RegardsCitoyens@mamot.fr":
+  name: Regards Citoyens
+  lang: fr
+  tags:
+    - organizations
+    - mirrors
+    
+    
+"datagueule@framapiaf.org":
+  name: ""#DATAGUEULE""
+  lang: fr
+  tags:
+    - technology
+    - entertrainement
+    
+    
+    
