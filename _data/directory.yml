@@ -1012,3 +1012,43 @@
   tags:
     - news
 
+"@letemps@mastodon.blue":
+  name: LeTemps.ch
+  lang: fr
+  tags:
+    - mirrors
+    - news
+
+"Koreus@koreus.social":
+  name: Koreus
+  lang: fr
+  tags:
+    - entertrainement
+
+"dsn_status@botsin.space"
+  name: "NASA's Deep Space Network"
+  lang: en
+  tags:
+    - bots
+    - science
+
+"TrendingBot@mastodon.social":
+  name: TrendingBot
+  lang: all
+  tags:
+    - bots
+    - meta
+
+"Limportant@social.mordicux.xyz":
+  name: "L'Important"
+  lang: fr
+  tags:
+    - mirrors
+    - news
+
+"btc@framapiaf.org":
+  name: "Bitcoin #btc"
+  lang: en
+  tags:
+    - economy
+
