@@ -91,3 +91,11 @@
     - meta
     - mastodon
 
+- id: fediverseorg
+  name: "Fediverse.org - A GNU Social map and knowledge base"
+  lang: en
+  link: https://www.fediverse.org/
+  categories:
+    - meta
+    - gnusocial
+
