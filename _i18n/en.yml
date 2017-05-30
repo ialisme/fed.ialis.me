@@ -52,7 +52,9 @@ titles:
   directory_meta: Meta
 
 descriptions:
+  index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
   protocols: The standardized technology behind the federation
+  directory: A directory of interesting accounts on the Fediverse
 
 index:
   title: Welcome to the Fediverse

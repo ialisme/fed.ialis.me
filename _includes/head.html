@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{% t page.title %} - {% t global.title %}{% else %}{% t global.title %}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{% t global.description %}{% endif %}">
+  <meta name="description" content="{% if page.description %}{% t page.description %}{% else %}{% t global.description %}{% endif %}">
   <meta http-equiv="Content-Language" content="{{ site.lang }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% for lang in site.languages %}{% unless site.lang == lang %}<link rel="alternate" hreflang="{{ lang }}" href="{% tl {{ page.namespace }} {{ lang }} %}" />{% endunless %}{% endfor %}

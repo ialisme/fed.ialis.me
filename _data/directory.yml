@@ -36,14 +36,14 @@
     - curators
     - art
 
-"liberation@mastodon.nuzgo.net":
+"libe@mamot.fr":
   name: Libération.fr
   lang: fr
   tags:
     - mirrors
     - news
     
-"lefigarobot@politebot.com":
+"lefigaro@mastodon.xyz":
   name: Le Figaro
   lang: fr
   tags:
@@ -136,8 +136,8 @@
     - curators
     
     
-"paris_lutte@mamot.fr":
-  name: Paris Lutte Info
+"paris_luttes@mamot.fr":
+  name: Paris Luttes Info
   lang: fr
   tags:
     - news
