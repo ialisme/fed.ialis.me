@@ -42,7 +42,7 @@
   tags:
     - mirrors
     - news
-    
+
 "lefigaro@mastodon.xyz":
   name: Le Figaro
   lang: fr
@@ -56,21 +56,21 @@
   tags:
     - mirrors
     - news
-  
+
 "lecanardenchaine@mamot.fr":
   name: Le Canard Enchaîné
   lang: fr
-  tags: 
+  tags:
     - news
-    
-   
+
+
 "hntooter@mastodon.social":
   name: Hacker News
   lang: en
   tags:
     - mirrors
     - news
-    
+
 
 "bbc@social.undernet.uy":
   name: BBC
@@ -78,16 +78,16 @@
   tags:
     - mirrors
     - news
-    
-    
+
+
 "rmcbfmi24@botsin.space":
   name: RMC/BMF/I24 News
   lang: fr
   tags:
     - mirrors
     - news
-    
-    
+
+
 "artefr@mamot.fr":
   name: Arte
   lang: fr
@@ -95,58 +95,58 @@
     - mirrors
     - news
     - culture
-    
-    
+
+
 "afpfr@mastodon.nuzgo.net":
   name: AFP
   lang: fr
   tags:
     - mirrors
     - news
-    
-    
+
+
 "franceinfo@nuzgo.net":
   name: France Info
-  lang: fr 
+  lang: fr
   tags:
     - mirrors
     - news
-    
-    
+
+
 "Mediapart@mastodon.social":
   name: Mediapart
   lang: fr
   tags:
     - mirrors
     - news
-    
-    
+
+
 "guardian@social.undernet.uy":
   name: The Guardian
   lang: en
   tags:
     - mirrors
     - news
-    
-    
+
+
 "curator@techn.ical.ist":
   name: Technicalist Curator
   lang: en
   tags:
     - curators
-    
-    
+
+
 "paris_luttes@mamot.fr":
   name: Paris Luttes Info
   lang: fr
   tags:
     - news
-    
-    
+
+
 "le_gorafi@mastodon.social":
   name: Le Gorafi
   lang: fr
-  tags: 
+  tags:
     - entertrainement
     - mirrors
 
@@ -157,64 +157,64 @@
   tags:
     - meta
 
-   
-    
+
+
 "actual_instances@misanthropy.wang":
   name: Actual Mastodon Instances
   lang: en
   tags:
     - meta
-    
-    
+
+
 "ambassador@a.weirder.earth":
   name: a.weirder.earth Ambassador
   lang: en
   tags:
     - curators
     - bots
-    
-    
+
+
 "AmbassadorBot@mst3k.interlinked.me":
   name: mst3k Ambassador Bot
   lang: en
   tags:
     - curators
     - bots
-    
-    
+
+
 "federationbot@mastodon.direct":
   name: Federation Bot
   lang: en
   tags:
     - bots
     - meta
-    
-    
+
+
 "aquarium@botsin.space":
   name: Emoji Aquarium
   lang: all
   tags:
     - art
     - bots
-    
-    
+
+
 "inkblot@toot.works":
   name: Inkblot
   lang: all
   tags:
     - art
     - bots
-    
-    
+
+
 "HowCostETH@masto.themimitoof.fr":
   name: How Cost ETH?
   lang: en
-  tags: 
+  tags:
     - news
     - bots
     - economy
-    
-    
+
+
 "HowCostBTC@masto.themimitoof.fr":
   name: How Cost BTC?
   lang: en
@@ -222,8 +222,8 @@
     - news
     - bots
     - economy
- 
-   
+
+
 "phys@social.oalm.gub.uy":
   name: Phys
   lang: en
@@ -231,8 +231,8 @@
     - news
     - mirrors
     - science
-    
-    
+
+
 "nasa@social.oalm.gub.uy":
   name: NASA
   lang: en
@@ -240,156 +240,156 @@
     - news
     - mirrors
     - science
-    
+
 "LaQuadrature@mamot.fr":
   name: La Quadrature du Net
   lang: fr
   tags:
     - organization
-    
-    
+
+
 "arretsurimages@mamot.fr":
   name: Arrêt sur Images
   lang: fr
   tags:
     - news
-    
-    
+
+
 "intercept@social.undernet.uy":
   name: The intercept
   lang: en
   tags:
     - news
     - mirrors
-    
-    
+
+
 "lr21@social.undernet.uy":
   name: LR21
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "mvdcomm@social.undernet.uy":
   name: Montevideo COMM
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "portal180@social.undernet.uy":
   name: Portal180
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "sociedaduruguaya@social.undernet.uy":
   name: Sociedad Uruguaya
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "uypress@social.undernet.uy":
   name: UY Press
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "brecha@social.undernet.uy":
   name: UY Press
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-  
-  
+
+
 "espectador810@social.undernet.uy":
   name: El Espectador
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "elobservador@social.undernet.uy":
   name: El Observador
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "elpais@social.undernet.uy":
   name: El País
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "larepublica@social.undernet.uy":
   name: La República
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "presidencia@social.undernet.uy":
   name: Presidencia
   lang: es
   tags:
     - news
     - mirrors
-  
-  
+
+
 "lanacion@social.undernet.uy":
   name: La Nación
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "infobae@social.undernet.uy":
   name: Infobae
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "pagina12@social.undernet.uy":
   name: Página12
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "ambitofinanciero@social.undernet.uy":
   name: Ámbito Financiero
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "eldesconcierto@social.undernet.uy":
   name: El Desconcierto
   lang: es
   tags:
     - news
     - mirrors
- 
+
 
 "elmostrador@social.undernet.uy":
   name: El Mostrador
@@ -397,104 +397,104 @@
   tags:
     - news
     - mirrors
-    
-    
+
+
 "lamarea@social.undernet.uy":
   name: La Marea
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "lahaine@sociall.undernet.uy":
   name: La Haine
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "alasbarricadas@social.undernet.uy":
   name: A Las Barricadas
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "horizontal@social.undernet.uy":
   name: Horizontal
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "eljueves@social.undernet.uy":
   name: El Jueaves
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "diagonal@social.undernet.uy":
   name: Periódico Diagonal
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "derechosdigitales@social.undernet.uy":
   name: Derechos Digitales
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "ciperchile@social.undernet.uy":
   name: Ciper Chile
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "radiouchile@social.undernet.uy":
   name: RadioUChile
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "revistaanfibia@social.undernet.uy":
   name: Revista Anfibia
   lang: es
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "portaloaca@social.undernet.uy":
   name: Portal OACA
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "adnradio@social.undernet.uy":
   name: ADN Radio
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "amnesty@social.undernet.uy":
   name: Amnesty International
   lang: en
@@ -502,52 +502,52 @@
     - news
     - organizations
     - mirrors
-    
-    
+
+
 "rt@social.undernet.uy":
   name: RT
   lang: en
-  tags: 
+  tags:
     - news
     - mirrors
-    
-    
+
+
 "democracynow@social.undernet.uy":
   name: DemocracyNow!
   lang: es
   tags:
     - news
     - mirrors
-    
-    
+
+
 "spiegel@social.undernet.uy":
   name: Spiegel
   lang: es
   tags:
-    - news 
+    - news
     - mirrors
-    
-  
+
+
 "skyandtelescope@social.oalm.gub.uy":
   name: Sky&Telescope
   lang: en
   tags:
     - science
     - bots
-    
-    
+
+
 "dxzone@social.undernet.uy":
   name: DX Zone
   lang: en
   tags:
     - science
     - culture
-    
-    
+
+
 "aanda@social.oalm.gub.uy":
   name: Astronomy and Astrophysics
   lang: en
-  tags: 
+  tags:
     - science
 
 "reflets@mastodon.social":
@@ -570,41 +570,41 @@
   tags:
     - science
     - mirrors
-    
-    
+
+
 "aip@social.oalm.gub.uy":
   name: American Institute of Physics
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "aps@social.oalm.gub.uy":
   name: American Physical Society
   lang: en
-  tags: 
+  tags:
     - science
     - mirrors
-    
-    
+
+
 "astronomycast@social.oalm.gub.uy":
   name: Astronomy Cast
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "natgeo@social.oalm.gub.uy":
-  name: National Geographic 
+  name: National Geographic
   lang: en
   tags:
     - science
     - culture
     - mirrors
-    
-    
+
+
 "nature@social.oalm.gub.uy":
   name: Nature
   lang: en
@@ -612,48 +612,48 @@
     - science
     - culture
     - mirrors
-    
-    
+
+
 "physicsworld@social.oalm.gub.uy":
   name: Physics World
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "scientificamerican@social.oalm.gub.uy":
   name: Scientific American
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "space@social.oalm.gub.uy":
   name: Space
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "universetoday@social.oalm.gub.uy ":
   name: Universe Today
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "watchers@social.oalm.gub.uy":
-  name: Watchers 
+  name: Watchers
   lang: en
   tags:
     - science
     - mirrors
-    
-    
+
+
 "tedtalks@social.undernet.uy":
   name: TED Talks
   lang: en
@@ -661,112 +661,112 @@
     - science
     - technology
     - mirrors
-    
-    
+
+
 "steam@social.undernet.uy":
   name: Steam
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "cnet@social.undernet.uy":
   name: CNET
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "theverge@social.undernet.uy":
   name: The Verge
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "gizmodo@social.undernet.uy":
   name: Gizmodo
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "wired@social.undernet.uy":
   name: Wired
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "arstechnica@social.undernet.uy":
   name: Ars Technica
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "phoronix@social.undernet.uy":
   name: Phoronix
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "register@social.undernet.uy":
   name: The Register
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "darkreading@social.undernet.uy":
   name: Dark Reading
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "debian@quitter.se":
   name: Debian
   lang: en
   tags:
     - technology
     - bots
-    
-    
+
+
 "trustedsec@social.undernet.uy":
   name: TrustedSec
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "threatpost@social.undernet.uy":
   name: ThreatPost
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "nakedsecurity@social.undernet.uy":
   name: Naked Security
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "torproject@social.undernet.uy":
   name: TorProject
   lang: en
@@ -774,49 +774,49 @@
     - technology
     - mirrors
     - organizations
-    
-    
+
+
 "netsec@social.undernet.uy":
   name: /r/netsec
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "fayerwayer@social.undernet.uy":
   name: FayerWayer
   lang: en
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "powermetal@social.undernet.uy":
   name: Powermetal
   lang: es
   tags:
     - music
     - mirrors
-    
-    
+
+
 "blabbermouth@social.undernet.uy":
   name: Blabbermouth
   lang: en
   tags:
     - music
     - mirrors
-    
-    
+
+
 "smbc@social.undernet.uy":
   name: SMBC
   lang: en
   tags:
     - art
     - mirrors
-    - entertrainement 
-    
-    
+    - entertrainement
+
+
 "xkcd@social.undernet.uy":
   name: XKCD
   lang: en
@@ -824,15 +824,15 @@
     - art
     - mirrors
     - entertrainement
-    
-    
+
+
 "dpreview@social.undernet.uy":
   name: DPReview
   lang: en
   tags:
     - art
     - mirrors
-    
+
 
 "lizclimo@social.undernet.uy":
   name: Liz Climo
@@ -849,24 +849,24 @@
   tags:
     - mirrors
     - technology
-    
-    
+
+
 "cern@framapiaf.org":
     name: CERN
     lang: fr
     tags:
       - mirrors
       - technology
-      
-      
+
+
 "courrierinter@framapiaf.org":
-  name: Courrier International 
+  name: Courrier International
   lang: fr
   tags:
     - mirrors
     - news
-    
-    
+
+
 "elonmusk@framapiaf.org":
   name: Elon Musk
   lang: en
@@ -874,8 +874,8 @@
     - mirrors
     - technology
     - sciences
-    
-    
+
+
 "FossoyeurDeFilms@framapiaf.org":
   name: Le Fossoyeur de Films
   lang: fr
@@ -883,46 +883,46 @@
     - culture
     - entertrainement
     - mirrors
-    
+
 "hcnbot@framapiaf.org":
   name: HCN News
   lang: fr
   tags:
     - technology
     - mirrors
-    
-    
+
+
 "jassange@framapiaf.org":
   name: Julian Assange
   lang: en
   tags:
     - mirrors
-    
-    
+
+
 "lacanquotidienreloaded@framapiaf.org":
   name: Lacan Quotidien Reloaded
   lang: fr
   tags:
     -mirrors
     - news
-    
-    
+
+
 "lemonde@framapiaf.org":
   name: Le Monde
   lang: fr
   tags:
     - news
     - mirrors
-    
-    
+
+
 "MotherboardFR@framapiaf.org":
   name: MotherBoard FR
   lang: fr
   tags:
     - mirrors
     - technology
-    
-    
+
+
 "rsf@framapiaf.org":
   name: Reporters sans Frontières
   lang: all
@@ -930,40 +930,40 @@
     - mirrors
     - news
     - organizations
-    
-    
+
+
 "southpark@framapiaf.org":
   name: South Park
   lang: en
   tags:
     - mirrors
     - entertrainement
-    
-    
+
+
 "thom_astrobot@framapiaf.org":
   name: Thomas Pesquet
   lang: all
   tags:
     - mirrors
     - sciences
-    
-    
+
+
 "torrentfreak@framapiaf.org":
   name: Torrent Freak
   lang: en
   tags:
     - mirrors
     - technology
-  
-  
+
+
 "wikipediabot@framapiaf.org":
   name: Wikipedia
   lang: en
   tags:
     - bots
     - culture
-    
-    
+
+
 "wwffbot@framapiaf.org":
   name: WWFF
   lang: fr
@@ -1004,7 +1004,6 @@
   tags:
     - bots
     - entertrainement
-
 
 "anarchismehub@todon.nl":
   name: Anarchisme-nieuws
@@ -1051,4 +1050,60 @@
   lang: en
   tags:
     - economy
+
+
+"wikileaks@quitter.im":
+  name: WikiLeaks
+  lang: en
+  tags:
+    - news
+    - organizations
+
+
+"mdiplo@mamot.fr":
+  name: Monde Diplomatique
+  lang: fr
+  tags:
+    - news
+    - mirrors
+
+
+"journalduhacker@framapiaf.org":
+  name: Journal du Hacker
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+
+
+"NextInpact@mamot.fr":
+  name: Next Impact
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+
+
+"numerama@social.numerama.com":
+  name: Numera
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+
+
+"RegardsCitoyens@mamot.fr":
+  name: Regards Citoyens
+  lang: fr
+  tags:
+    - organizations
+    - mirrors
+
+
+"datagueule@framapiaf.org":
+  name: ""#DATAGUEULE""
+  lang: fr
+  tags:
+    - technology
+    - entertrainement
 
