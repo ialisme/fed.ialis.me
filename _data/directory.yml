@@ -841,3 +841,134 @@
     - art
     - entertrainement
     - mirrors
+
+
+"anssi_fr@framapiaf.org":
+  name: ANSSI
+  lang: fr
+  tags:
+    - mirrors
+    - technology
+    
+    
+"cern@framapiaf.org":
+    name: CERN
+    lang: fr
+    tags:
+      - mirrors
+      - technology
+      
+      
+"courrierinter@framapiaf.org":
+  name: Courrier International 
+  lang: fr
+  tags:
+    - mirrors
+    - news
+    
+    
+"elonmusk@framapiaf.org":
+  name: Elon Musk
+  lang: en
+  tags:
+    - mirrors
+    - technology
+    - sciences
+    
+    
+"FossoyeurDeFilms@framapiaf.org":
+  name: Le Fossoyeur de Films
+  lang: fr
+  tags:
+    - culture
+    - entertrainement
+    - mirrors
+    
+"hcnbot@framapiaf.org":
+  name: HCN News
+  lang: fr
+  tags:
+    - technology
+    - mirrors
+    
+    
+"jassange@framapiaf.org":
+  name: Julian Assange
+  lang: en
+  tags:
+    - mirrors
+    
+    
+"lacanquotidienreloaded@framapiaf.org":
+  name: Lacan Quotidien Reloaded
+  lang: fr
+  tags:
+    -mirrors
+    - news
+    
+    
+"lemonde@framapiaf.org":
+  name: Le Monde
+  lang: fr
+  tags:
+    - news
+    - mirrors
+    
+    
+"MotherboardFR@framapiaf.org":
+  name: MotherBoard FR
+  lang: fr
+  tags:
+    - mirrors
+    - technology
+    
+    
+"rsf@framapiaf.org":
+  name: Reporters sans Frontières
+  lang: all
+  tags:
+    - mirrors
+    - news
+    - organizations
+    
+    
+"southpark@framapiaf.org":
+  name: South Park
+  lang: en
+  tags:
+    - mirrors
+    - entertrainement
+    
+    
+"thom_astrobot@framapiaf.org":
+  name: Thomas Pesquet
+  lang: all
+  tags:
+    - mirrors
+    - sciences
+    
+    
+"torrentfreak@framapiaf.org":
+  name: Torrent Freak
+  lang: en
+  tags:
+    - mirrors
+    - technology
+  
+  
+"wikipediabot@framapiaf.org":
+  name: Wikipedia
+  lang: en
+  tags:
+    - bots
+    - culture
+    
+    
+"wwffbot@framapiaf.org":
+  name: WWFF
+  lang: fr
+  tags:
+    - mirrors
+    - organizations
+    
+    
