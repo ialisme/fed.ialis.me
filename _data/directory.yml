@@ -841,3 +841,37 @@
     - art
     - entertrainement
     - mirrors
+
+"anarchismhub@todon.nl":
+  name: Anarchism News
+  lang: en
+  tags:
+    - news
+
+"WTF@mastodon.etalab.gouv.fr":
+  name: Glossary Bot
+  lang: fr
+  tags:
+    - bots
+
+"luna@ephemeral.glitch.social":
+  name: Luna
+  lang: all
+  tags:
+    - bots
+    - art
+
+"fortune@freezepeach.xyz":
+  name: Fortune
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
+"markov@gs.kawa-kun.com":
+  name: Andrey Markov
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
