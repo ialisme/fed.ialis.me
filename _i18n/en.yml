@@ -42,6 +42,7 @@ titles:
   mastodon_apps: Applications for Mastodon
   protocols: OStatus - Standards protocols
   resources: Resources
+  decentralization: Decentralization
   directory: Directory
   directory_bots: Bots
   directory_mirrors: Mirrors
