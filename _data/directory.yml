@@ -1107,3 +1107,61 @@
     - technology
     - entertrainement
 
+"fau_berlin@soc.ialis.me":
+  name: FAU Berlin
+  lang: de
+  tags:
+    - news
+    - organizations
+
+"AmnestyAulnay@mamot.fr":
+  name: Amnesty Aulnay
+  lang: fr
+  tags:
+    - organizations
+
+"TNInstitute@darksocial.party":
+  name: Transnational Institute
+  lang: en
+  tags:
+    - organizations
+
+"Mastodon@mastodon.social":
+  name: Mastodon
+  lang: en
+  tags:
+    - meta
+
+"Support@mastodon.social":
+  name: Mastodon Support
+  lang: en
+  tags:
+    - meta
+
+"Courant_Anarchostalinien@pouet.it":
+  name: Courant Arnarchostalinien
+  lang: fr
+  tags:
+    - entertrainement
+
+"instance_names@cybre.space":
+  name: Instances Names Generator
+  lang: en
+  tags:
+    - bots
+    - meta
+
+"postengineered@soc.ialis.me":
+  name: Post-Engineering
+  lang: en
+  tags:
+    - mirrors
+    - music
+
+"federationbot@mastodon.host":
+  name: Federation Bot
+  lang: en
+  tags:
+    - bots
+    - meta
+
