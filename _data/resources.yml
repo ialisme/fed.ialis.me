@@ -107,3 +107,17 @@
     - guides
     - gnusocial
 
+- id: merceredifiction_bortzmeyer
+  name: "#MercrediFiction ePubs"
+  lang: fr
+  link: http://mercredifiction.bortzmeyer.org/
+  categories:
+    - meta
+
+- id: mercredifictionxyz
+  name: "#MercrediFiction"
+  lang: fr
+  link: http://mercredifiction.xyz/
+  categories:
+    - meta
+
