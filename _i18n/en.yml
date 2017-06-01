@@ -34,7 +34,8 @@ titles:
   mastodon: Mastodon
   gnusocial: GNU Social
   friendica: Friendica
-  qvitter: Qvitter
+  postactiv: PostActiv
+  pleroma: Pleroma
   guides: Guides
   admin: Administrator's Guides
   servers: Servers software

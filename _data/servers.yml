@@ -16,10 +16,15 @@
   source: https://github.com/friendica/friendica
   maturity: stable
 -
-  id: qvitter
-  name: Qvitter
-  link: https://git.gnu.io/h2p/Qvitter
-  source: https://git.gnu.io/h2p/Qvitter
+  id: postactiv
+  name: postActiv
+  link: https://www.postactiv.com/
+  source: https://git.postactiv.com/postActiv/postActiv
   maturity: stable
-
+-
+  id: pleroma
+  name: Pleroma
+  link: https://pleroma.heldscal.la/
+  source: https://gitgud.io/lambadalambda/pleroma
+  maturity: unstable
 
