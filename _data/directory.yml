@@ -1165,3 +1165,89 @@
     - bots
     - meta
 
+
+"tetaneutral_net@mastodon.tetaneutral.net":
+  name: Tetaneutral.net
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"federationfdn@mastodon.xyz":
+  name: Fédération FDN
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"nos_oignons@mamot.fr":
+  name: Nos Oignons
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"Aquilenet@toot.aquilenet.fr":
+  name: Aquilenet
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"scani89@mastodon.gougere.fr":
+  name: SCANI
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"yunohost@mastodon.social":
+  name: yunohost
+  lang: all
+  tags:
+    - organizations
+    - technology
+
+
+"FAImaison@mastodon.social":
+  name: FAImaison
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"Ilico@mastodon.social":
+  name: Ilico
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+
+"fascists_exe@botsin.space":
+  name: Kill Fascists
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
+
+"fakir@mamot.fr":
+  name: Fakir
+  lang: fr
+  tags:
+    - mirrors
+    - organizations
+
+
+"linuxjobsfr@linuxjobs.social":
+  name: LinuxJobs.fr
+  lang: fr
+  tags:
+    - technology
