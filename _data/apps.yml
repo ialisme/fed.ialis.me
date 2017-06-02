@@ -46,4 +46,10 @@
       name: Tooty
       link: https://n1k0.github.io/tooty/
       source: https://github.com/n1k0/tooty
+    - id: halcyon
+      server:
+        - mastodon
+      name: Halcyon
+      link: https://halcyon.social/
+      source: https://github.com/halcyon-suite
 
