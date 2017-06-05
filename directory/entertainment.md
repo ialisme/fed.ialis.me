@@ -1,9 +1,9 @@
 ---
 layout: directory
-title: titles.directory_entertrainement
+title: titles.directory_entertrainment
 tag: entertrainement
-namespace: directory/entertrainement
-permalink: /directory/entertrainement/
+namespace: directory/entertrainment
+permalink: /directory/entertrainment/
 permalink_fr: /repertoire/divertissement/
 category: directory
 ---

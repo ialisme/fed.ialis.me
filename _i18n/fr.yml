@@ -60,6 +60,15 @@ titles:
   directory_news-activists: Actualités Activistes
   directory_hackerspaces: Hackerspaces
   directory_conferences: Conférences
+  directory_politics: Politique
+  directory_podcasts: Podcasts
+  directory_radio: Radios
+  directory_shops: Boutiques
+  directory_opensource: Open Source
+  directory_community: Communautés
+  directory_companies: Sociétés
+  directory_ecology: Écologie
+  directory_education: Éducation
 
 index:
   title: Bienvenue sur le Fediverse
@@ -97,6 +106,15 @@ directory:
     isp: F.A.I.s
     jobs: Emploi
     news-activists: Actualités Activistes
-    hackerspaces: Hackerspaces
-    conferences: Conférences
+    hackerspaces: Hackerspace
+    conferences: Conférence
+    politics: Politique
+    podcasts: Podcast
+    radio: Radio
+    shops: Boutique
+    opensource: Open Source
+    community: Communauté
+    companies: Société
+    ecology: Écologie
+    education: Éducation
 

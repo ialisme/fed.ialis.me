@@ -96,23 +96,6 @@
     - news
     - culture
 
-
-"afpfr@mastodon.nuzgo.net":
-  name: AFP
-  lang: fr
-  tags:
-    - mirrors
-    - news
-
-
-"franceinfo@nuzgo.net":
-  name: France Info
-  lang: fr
-  tags:
-    - mirrors
-    - news
-
-
 "Mediapart@mastodon.social":
   name: Mediapart
   lang: fr
@@ -1312,7 +1295,7 @@
   lang: fr
   tags:
     - organizations
-    - isp
+    - opensource
 
 "acbm_com@mastodon.cloud":
   name: Le Virus Informatique
@@ -1332,4 +1315,335 @@
   lang: fr
   tags:
     - conferences
+    - technology
+
+"cbase@mastodon.social":
+  name: c-base
+  lang: ['en', 'de']
+  tags:
+    - hackerspaces
+
+"catfacts@mastodon.cloud":
+  name: Cats Facts
+  lang: all
+  tags:
+    - curators
+
+"cryptoparty@mastodon.social":
+  name: Cryptoparty Cologne Bonn area
+  lang: ['en', 'de']
+  tags:
+    - conferences
+
+"cryptopartybln@quitter.se":
+  name: Cryptoparty Berlin
+  lang: ['en', 'de']
+  tags:
+    - conferences
+
+"ccc@quitter.se":
+  name: Chaos Computer Club
+  lang: ['en', 'de']
+  tags:
+    - hackerspaces
+    - organizations
+    - technology
+
+"fairphone@social.wehos.st":
+  name: Fairphone
+  lang: en
+  tags:
+    - organizations
+    - technology
+
+"tusky@mastodon.social":
+  name: Tusky
+  lang: en
+  tags:
+    - meta
+
+"fsfe@quitter.no":
+  name: Free Software Foundation Europe
+  lang: all
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"fsf@status.fsf.org":
+  name: Free Software Foundation
+  lang: en
+  tags:
+    - organizations
+    - technology
+
+"KaamelBott@hostux.social":
+  name: Kaamel(b)ott
+  lang: fr
+  tags:
+    - bots
+    - entertrainment
+
+"rms@gnusocial.io":
+  name: Richard M. Stallman
+  lang: en
+  tags:
+    - technology
+    - opensource
+
+"PartiPirate@mastodon.partipirate.org":
+  name: Parti Pirate
+  lang: fr
+  tags:
+    - politics
+    - organizations
+
+"Piratenpartei@mastodon.partipirate.org":
+  name: Piratenpartei
+  lang: de
+  tags:
+    - politics
+    - organizations
+
+"pPP_Bretagne@mastodon.partipirate.org":
+  name: Parti Pirate Bretagne
+  lang: fr
+  tags:
+    - politics
+
+"danstonchat@hostux.social":
+  name: DansTonChat
+  lang: fr
+  tags:
+    - entertrainment
+
+"lealinux@mastodon.cloud":
+  name: Léa-Linux
+  lang: fr
+  tags:
+    - technology
+    - organizations
+    - opensource
+
+"COAGUL@social.alex73630.xyz":
+  name: COAGUL
+  lang: fr
+  tags:
+    - hackerspaces
+    - organizations
+
+"osm_fr@fr.osm.social":
+  name: OpenStreetMap FR
+  lang: fr
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"56kast@framapiaf.org":
+  name: 56kast
+  lang: fr
+  tags:
+    - technology
+    - podcasts
+
+"ecrans@framapiaf.org":
+  name: Écrans.fr
+  lang: fr
+  tags:
+    - technology
+    - news
+
+"Framasoft@framapiaf.org":
+  name: Framasoft
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+"nextcoulders@gnusocial.de":
+  name: Nextclouders
+  lang: en
+  tags:
+    - organizations
+    - technology
+
+"tehnoetic@quitter.no":
+  name: Tehnoetic
+  lang: ['en', 'ro']
+  tags:
+    - organizations
+    - shops
+
+"gnulinuxromania@quitter.no":
+  name: "GNU Linux Rromânia"
+  lang: ro
+  tags:
+    - technology
+    - opensource
+
+"plossra_a@mamot.fr":
+  name: PLOSS Rhône Alpes Auvergne
+  lang: fr
+  tags:
+    - technology
+    - organizations
+    - opensource
+
+"TechInc@mastodon.social":
+  name: Technologia Incognita
+  lang: ['en', 'nl']
+  tags:
+    - hackerspaces
+
+"UbuntuFR@mamot.fr":
+  name: Ubuntu Francophone
+  lang: fr
+  tags:
+    - technology
+    - opensource
+    - community
+
+"Qwant@mastodon.social":
+  name: Qwant
+  lang: fr
+  tags:
+    - technology
+    - companies
+
+"linuxfr@apoil.org":
+  name: LinuxFr.org
+  lang: fr
+  tags:
+    - technology
+    - opensource
+    - community
+    - mirrors
+
+"Mozilla@mamot.fr":
+  name: Mozilla Francophone
+  lang: fr
+  tags:
+    - technology
+    - opensource
+    - community
+
+"linuxmint@mamot.fr":
+  name: LinuxMint Francophone
+  lang: fr
+  tags:
+    - technology
+    - opensource
+    - community
+
+"VousNousIls@octodon.social":
+  name: VousNousIls
+  lang: fr
+  tags:
+    - organizations
+
+"gnome@quitter.no":
+  name: GNOME
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"linagora@framapiaf.org":
+  name: Linagora
+  lang: fr
+  tags:
+    - companies
+
+"CozyCloud@framapiaf.org":
+  name: Cozy Cloud
+  lang: ['fr', 'en']
+  tags:
+    - companies
+    - opensource
+    - technology
+
+"La_Mouette_@framapiaf.org":
+  name: La Mouette
+  lang: fr
+  tags:
+    - organizations
+    - opensource
+
+"Lasemainenumerique@mamot.fr":
+  name: La Semaine Numérique Paris
+  lang: fr
+  tags:
+    - conferences
+
+"Emmabuntus@framapiaf.org":
+  name: Collectif Emmabuntüs
+  lang: fr
+  tags:
+    - organizations
+    - opensource
+
+"agitateur@mamot.fr":
+  name: agitateur.org
+  lang: fr
+  tags:
+    - news
+
+"source@mastodon.brussels":
+  name: Source @ Radio Campus Bruxelles
+  lang: fr
+  tags:
+    - opensource
+    - radio
+    - podcasts
+
+"AGECA@mamot.fr":
+  name: Association AGECA
+  lang: fr
+  tags:
+    - organizations
+    - hackerspaces
+
+"AssoPiNG@mamot.fr":
+  name: Association PiNG
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+"Eutopies@framapiaf.org":
+  name: Europies
+  lang: fr
+  tags:
+    - organizations
+    - ecology
+
+"FullMediasInc@mastodon.social":
+  name: Full Médias Inc.
+  lang: fr
+  tags:
+    - organization
+    - radio
+
+"PasSageEnSeine@ecurie.social":
+  name: Pas Sage En Seine
+  lang: fr
+  tags:
+    - conferences
+
+"CECIL@mastodon.xyz":
+  name: Le CECIL
+  lang: fr
+  tags:
+    - organizations
+    - technology
+
+"Zaclys@mastodon.zaclys.com":
+  name: Zaclys
+  lang: fr
+  tags:
+    - organizations
+    - technology
+    - isp
 

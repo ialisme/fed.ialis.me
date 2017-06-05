@@ -64,6 +64,15 @@ titles:
   directory_isp: Internet Service Providers
   directory_hackerspaces: Hackerspaces
   directory_conferences: Conferences
+  directory_politics: Politics
+  directory_podcasts: Podcasts
+  directory_radio: Radios
+  directory_shops: Shops
+  directory_opensource: Open Source
+  directory_community: Communities
+  directory_companies: Companies
+  directory_ecology: Ecology
+  directory_education: Education
 
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
@@ -113,6 +122,16 @@ directory:
     news-activists: News Activists
     jobs: Jobs
     isp: ISPs
-    hackerspaces: Hackerspaces
-    conferences: Conferences
+    hackerspaces: Hackerspace
+    conferences: Conference
+    politics: Politics
+    podcasts: Podcast
+    radio: Radio
+    shops: Shop
+    opensource: Open Source
+    community: Community
+    companies: Company
+    ecology: Ecology
+    education: Education
+
 
