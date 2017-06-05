@@ -1647,3 +1647,274 @@
     - technology
     - isp
 
+
+"LobbyFelin@mastodon.cx":
+  Name: Lobby Felin
+  lang: fr
+  tags: 
+    - entertrainement
+
+
+"maisouvaleweb@mstdn.fr":
+  name: Mais où va le web ?
+  lang: fr
+  tags:
+    - organizations
+    - technology
+    - news-activists
+
+
+"Attac@mamot.fr":
+  name: Attac
+  lang: fr
+  tags:
+    - news-activists
+    - ecology
+    - organizations
+    - politics
+
+
+"michelbriand@framapiaf.org":
+  name: Michel Briand
+  lang: fr
+  tags:
+    - local
+    - community
+    - technology
+    - culture
+
+
+"56kast@framapiaf.org":
+  name: 56kast
+  lang: fr
+  tags:
+    - technology
+    - sciences
+    - news
+
+
+"Valk@mamot.fr":
+  name: Val K.
+  lang: fr
+  tags:
+    - politics
+    - arts
+
+
+"commitstrip@mamot.fr":
+  name: Comit Strip
+  lang: en
+  tags:
+    - technology
+    - entertrainement
+    - arts
+
+
+"Geekzone@octodon.social":
+  name: Geekzone
+  lang: fr
+  tags:
+    - technology
+    - entertrainement
+
+
+"eparody@mamot.fr":
+  name: Emmanuel Parody
+  lang: fr
+  tags:
+    - organizations
+
+
+"LaVolte@social.lavolte.net":
+  name: Editions La Volte
+  lang: fr
+  tags:
+    - organizations
+    - culture
+
+
+"fr_wikinews@mamot.fr":
+  name: Wikinews
+  lang: fr
+  tags:
+    - news-activists
+    - community
+    - organizations
+
+
+"basta@mastodon.xyz":
+  name: Basta! Média
+  lang: fr
+  tags:
+    - news-activists
+    - politics
+
+
+"UnivNantes@mastodon.social":
+  name: Université de Nantes
+  lang: fr
+  tags:
+    - education
+
+
+"Indice@framapiaf.org":
+  name: Indice
+  lang: fr
+  tags:
+    - community
+    - culture
+    - politics
+    - ecology
+
+
+"Reporterre@mamot.fr":
+  name: Reporterre
+  lang: fr
+  tags:
+    - news
+    - mirrors
+
+
+"acrimed@mamot.fr":
+  name: Acrimed
+  lang: fr
+  tags:
+    - news-activists
+    - politics
+
+
+"HygieneMentale@oc.todon.fr":
+  name: Hygiène Mentale
+  lang: fr
+  tags:
+    - sciences
+    - entertrainement
+    - podcasts
+
+
+"tesaucourant@mastodonfrance.com":
+  name: T'es au courant ?
+  lang: fr
+  tags:
+    - culture
+    - entertrainement
+    - sciences
+
+
+"LyonScience@mamot.fr":
+  name: Lyon Science
+  lang: fr
+  tags:
+    - education
+
+
+"Dari_Beliakhov@mastodon.social":
+  name: Temps_mort
+  lang: fr
+  tags:
+    - entertrainement
+    - culture
+
+
+"sciencesetavenir@3.nu":
+  name: Sciences et avenir
+  lang: fr
+  tags:
+    - sciences
+    - mirrors
+
+
+"LaMotDuJour@mamot.fr":
+  name: Le Mot Du Jour
+  lang: fr
+  tags:
+    - culture
+    - entertrainement
+
+
+"radiolondres@framapiaf.org":
+  name: Radio Londres
+  lang: fr
+  tags:
+    - politics
+    - entertrainement
+
+
+"AQUINUM@toot.aquilenet.fr":
+  name: AQUINUM
+  lang: fr
+  tags:
+    - technology
+    - local
+    - organizations
+
+
+"freetorrent@spacejerk.fr":
+  name: Free Torrent
+  lang: fr
+  tags:
+    - technology
+    - opensource
+    - organizations
+
+
+"GouvernementInternet@mastodon.social":
+  name: Le Gouvernement d'Internet
+  lang: fr
+  tags:
+    - entertrainement
+
+
+"The_Daily_Meme@social.tchncs.de":
+  Name: The Daily meme
+  lang: fr
+  tags:
+    - news
+
+
+"WebComics@mastodon.social":
+  name: WebComics
+  lang: en
+  tags:
+    - art
+    - entertrainement
+
+
+"fortune@mamot.fr":
+  name: Fortune
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+    - culture
+
+
+"LePoilQuiGratte@mamot.fr":
+  name: Le Poil Qui Gratte
+  lang: fr
+  tags:
+    - entertrainement
+
+
+"geekactu@mamot.fr":
+  name: GeekActu
+  lang: fr
+  tags:
+    - technology
+
+
+"MdM_France@mamot.fr":
+  name: Médecins du Monde
+  lang: fr
+  tags:
+    - news
+    - politics
+    - organizations
+
+
+"CentraleMarseille@mamot.fr":
+  name: École Centrale de Marseille
+  lang: fr
+  tags:
+    - education
+
