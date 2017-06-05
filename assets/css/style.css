@@ -38,3 +38,32 @@
 nav.tags {
   line-height: 2.3em;
 }
+
+.card-directory {
+  height: 230px;
+}
+.card-directory > .card-content > .media > .media-content > p.title {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+.card-directory > .card-content > .media > .media-content > p.title a {
+  font-size: 70%;
+  text-overflow: ellipsis;
+  line-height: 1;
+  vertical-align: super;
+}
+.card-directory > .card-content > .media > .media-content > p.subtitle {
+  font-size: 70%;
+}
+
+.card-directory > .card-content > .content > div.description {
+  font-size: 80%;
+  overflow: hidden;
+   text-overflow: ellipsis;
+   display: -webkit-box;
+   -webkit-box-orient: vertical;
+   -webkit-line-clamp: 1; /* number of lines to show */
+   line-height: 1.05em;        /* fallback */
+   max-height: 4em;
+   margin-bottom: 1em
+}
