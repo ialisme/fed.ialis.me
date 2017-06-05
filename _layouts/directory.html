@@ -5,7 +5,7 @@ layout: page
 {% tf {{ page.namespace }}/content.md %}
 
 <nav class="categories has-text-centered tags">
-  <a  class="tag is-medium {% if page.tag == 'all' %} is-info{% else %}is-dark{% endif %}" href="{% tl directory %}">{% t directory.tags.all %}</a>
+  <a  class="tag is-medium {% if page.tag == 'all' %} is-info{% else %}is-light{% endif %}" href="{% tl directory %}">{% t directory.tags.all %}</a>
   {% for tag in site.data.directory_tags %}
   <a class="tag is-medium {% if page.tag == tag %} is-info{% else %}is-light{% endif %}" href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a>
   {% endfor %}
@@ -26,7 +26,7 @@ layout: page
     {% endunless %}
     {% endunless %}
   <div class="column is-one-third lang-{{ account[1].lang }}" id="card-{{ account[0] }}">
-    <div class="card">
+    <div class="card card-directory">
       <div class="card-content">
         <div class="media">
           <div class="media-left">
@@ -37,18 +37,19 @@ layout: page
             </figure>
           </div>
           <div class="media-content">
-            <p class="title is-4">
-              <a href="{% directory_user_profile {{account[0]}}%}" class="is-large">{{ account[1].name }}</a>
+            <p class="title">
+              <a href="{% directory_user_profile {{account[0]}}%}">{{ account[1].name }}</a>
             </p>
-            <p class="subtitle is-6">
+            <p class="subtitle">
               @{{ account[0] }}
             </p>
           </div>
         </div>
         <div class="content">
+          <div class="description">{% directory_user_description {{account[0]}}%}</div>
           <a href="{% tl directory/lang-{{ account[1].lang }} %}" >
             <span class="tag is-white">{% t langs.{{ account[1].lang }} %}</span>
-          </a>
+          </a><br />
           {% for tag in account[1].tags %}
             <a href="{% tl directory/{{ tag }} %}" >
               <span class="tag is-grey">{% t directory.tags.{{ tag }} %}</span>

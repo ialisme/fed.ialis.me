@@ -69,6 +69,7 @@ titles:
   directory_companies: Sociétés
   directory_ecology: Écologie
   directory_education: Éducation
+  directory_local: Local
 
 index:
   title: Bienvenue sur le Fediverse
@@ -117,4 +118,5 @@ directory:
     companies: Société
     ecology: Écologie
     education: Éducation
+    local: Local
 

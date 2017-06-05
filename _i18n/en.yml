@@ -57,7 +57,7 @@ titles:
   directory_organizations: Organizations
   directory_meta: Meta
   directory_technology: Technology
-  directory_entertainment: entertainment
+  directory_entertainment: Entertainment
   directory_music: Music
   directory_news-activists: News Activists
   directory_jobs: Jobs
@@ -73,6 +73,7 @@ titles:
   directory_companies: Companies
   directory_ecology: Ecology
   directory_education: Education
+  directory_local: Local
 
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
@@ -122,16 +123,16 @@ directory:
     news-activists: News Activists
     jobs: Jobs
     isp: ISPs
-    hackerspaces: Hackerspace
-    conferences: Conference
+    hackerspaces: Hackerspaces
+    conferences: Conferences
     politics: Politics
-    podcasts: Podcast
-    radio: Radio
-    shops: Shop
+    podcasts: Podcasts
+    radio: Radios
+    shops: Shops
     opensource: Open Source
-    community: Community
-    companies: Company
+    community: Communities
+    companies: Companies
     ecology: Ecology
     education: Education
-
+    local: Local
 
