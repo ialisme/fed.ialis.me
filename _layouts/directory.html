@@ -4,28 +4,20 @@ layout: page
 
 {% tf {{ page.namespace }}/content.md %}
 
-<div class="level">
-  <div class="level-left">
-    <nav class="tabs">
-      <ul>
-      <li {% if page.tag == 'all' %}class="is-active"{% endif %}><a href="{% tl directory %}">{% t directory.tags.all %}</a></li>
-      {% for tag in site.data.directory_tags %}
-      <li {% if page.tag == tag %}class="is-active"{% endif %}><a href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a></li>
-      {% endfor %}
-      </ul>
-    </nav>
-  </div>
-  <div class="level-right">
-    <nav class="tabs">
-      <ul>
-        <li><a href="{% tl directory %}">All Languages</a></li>
-<!-- TODO        <li><a href="#">EN</a></li>
-<li><a href="#">FR</a></li>-->
-      </ul>
-    </nav>
-  </div>
-</div>
-
+<nav class="categories has-text-centered tags">
+  <a  class="tag is-medium {% if page.tag == 'all' %} is-info{% else %}is-dark{% endif %}" href="{% tl directory %}">{% t directory.tags.all %}</a>
+  {% for tag in site.data.directory_tags %}
+  <a class="tag is-medium {% if page.tag == tag %} is-info{% else %}is-light{% endif %}" href="{% tl directory/{{tag}} %}">{% t directory.tags.{{ tag }} %}</a>
+  {% endfor %}
+  <br/>
+  <a class="tag is-medium is-light" href="#">All Languages</a>
+  <a class="tag is-medium is-white" href="#">English</a>
+  <a class="tag is-medium is-white" href="#">Spanish</a>
+  <a class="tag is-medium is-white" href="#">French</a>
+  <a class="tag is-medium is-white" href="#">German</a>
+  <a class="tag is-medium is-white" href="#">Dutch</a>
+</nav>
+<br/><br/>
   <div class="columns is-multiline">
   {% for account in site.data.directory %}
     {% unless page.tag == "all" %}

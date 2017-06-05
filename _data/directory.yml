@@ -140,14 +140,13 @@
   name: Paris Luttes Info
   lang: fr
   tags:
-    - news
-
+    - news-activists
 
 "le_gorafi@mastodon.social":
   name: Le Gorafi
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
     - mirrors
 
 
@@ -814,7 +813,7 @@
   tags:
     - art
     - mirrors
-    - entertrainement
+    - entertainment
 
 
 "xkcd@social.undernet.uy":
@@ -823,7 +822,7 @@
   tags:
     - art
     - mirrors
-    - entertrainement
+    - entertainment
 
 
 "dpreview@social.undernet.uy":
@@ -839,7 +838,7 @@
   lang: en
   tags:
     - art
-    - entertrainement
+    - entertainment
     - mirrors
 
 
@@ -881,7 +880,7 @@
   lang: fr
   tags:
     - culture
-    - entertrainement
+    - entertainment
     - mirrors
 
 "hcnbot@framapiaf.org":
@@ -937,7 +936,7 @@
   lang: en
   tags:
     - mirrors
-    - entertrainement
+    - entertainment
 
 
 "thom_astrobot@framapiaf.org":
@@ -976,7 +975,7 @@
   name: Anarchism News
   lang: en
   tags:
-    - news
+    - news-activists
 
 "WTF@mastodon.etalab.gouv.fr":
   name: Glossary Bot
@@ -996,20 +995,20 @@
   lang: en
   tags:
     - bots
-    - entertrainement
+    - entertainment
 
 "markov@gs.kawa-kun.com":
   name: Andrey Markov
   lang: en
   tags:
     - bots
-    - entertrainement
+    - entertainment
 
 "anarchismehub@todon.nl":
   name: Anarchisme-nieuws
-  lang: de
+  lang: nl
   tags:
-    - news
+    - news-activists
 
 "@letemps@mastodon.blue":
   name: LeTemps.ch
@@ -1022,7 +1021,7 @@
   name: Koreus
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
 
   "dsn_status@botsin.space":
   name: "NASA's Deep Space Network"
@@ -1101,17 +1100,17 @@
 
 
 "datagueule@framapiaf.org":
-  name: ""#DATAGUEULE""
+  name: "#DATAGUEULE"
   lang: fr
   tags:
     - technology
-    - entertrainement
+    - entertainment
 
 "fau_berlin@soc.ialis.me":
   name: FAU Berlin
   lang: de
   tags:
-    - news
+    - news-activists
     - organizations
 
 "AmnestyAulnay@mamot.fr":
@@ -1142,7 +1141,7 @@
   name: Courant Arnarchostalinien
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
 
 "instance_names@cybre.space":
   name: Instances Names Generator
@@ -1188,7 +1187,7 @@
   tags:
     - organizations
     - technology
-
+    - isp
 
 "Aquilenet@toot.aquilenet.fr":
   name: Aquilenet
@@ -1196,7 +1195,7 @@
   tags:
     - organizations
     - technology
-
+    - isp
 
 "scani89@mastodon.gougere.fr":
   name: SCANI
@@ -1204,6 +1203,7 @@
   tags:
     - organizations
     - technology
+    - isp
 
 
 "yunohost@mastodon.social":
@@ -1212,6 +1212,7 @@
   tags:
     - organizations
     - technology
+    - isp
 
 
 "FAImaison@mastodon.social":
@@ -1220,6 +1221,7 @@
   tags:
     - organizations
     - technology
+    - isp
 
 
 "Ilico@mastodon.social":
@@ -1228,6 +1230,7 @@
   tags:
     - organizations
     - technology
+    - isp
 
 
 "fascists_exe@botsin.space":
@@ -1235,7 +1238,7 @@
   lang: en
   tags:
     - bots
-    - entertrainement
+    - entertainment
 
 
 "fakir@mamot.fr":
@@ -1243,11 +1246,32 @@
   lang: fr
   tags:
     - mirrors
+    - news
     - organizations
-
 
 "linuxjobsfr@linuxjobs.social":
   name: LinuxJobs.fr
   lang: fr
   tags:
-    - technology
+    - jobs
+
+"b9AcE@soc.ialis.me":
+  name: b9AcE
+  lang: en
+  tags:
+    - news-activists
+
+"enough14@quitter.se":
+  name: enough14
+  lang: en
+  tags:
+    - news-activists
+
+"hatewatch@quitter.se":
+  name: Hatewatch Sweden
+  lang: en
+  tags:
+    - news-activists
+    - organizations
+
+

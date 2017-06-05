@@ -9,6 +9,8 @@ langs:
   en: Anglais
   fr: Français
   es: Espagnol
+  de: Allemand
+  du: Néerlandais
 
 categories:
   guides: Guides
@@ -52,7 +54,10 @@ titles:
   directory_organizations: Organisations
   directory_music: Musique
   directory_technology: Technologie
-  directory_entertrainement: Divertissement
+  directory_entertainment: Divertissement
+  directory_jobs: Emploi
+  directory_isp: Fournisseurs d'Accès à Internet
+  directory_news-activists: Actualités Activistes
 
 index:
   title: Bienvenue sur le Fediverse
@@ -86,5 +91,8 @@ directory:
     organizations: Organisations
     technology: Technologie
     music: Musique
-    entertrainement: Divertissement
+    entertainment: Divertissement
+    isp: F.A.I.s
+    jobs: Emploi
+    news-activists: Actualités Activistes
 
