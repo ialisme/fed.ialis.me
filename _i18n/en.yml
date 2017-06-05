@@ -63,6 +63,7 @@ titles:
   directory_jobs: Jobs
   directory_isp: Internet Service Providers
   directory_hackerspaces: Hackerspaces
+  directory_conferences: Conferences
 
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
@@ -113,4 +114,5 @@ directory:
     jobs: Jobs
     isp: ISPs
     hackerspaces: Hackerspaces
+    conferences: Conferences
 

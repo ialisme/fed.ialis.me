@@ -59,6 +59,7 @@ titles:
   directory_isp: Fournisseurs d'Accès à Internet
   directory_news-activists: Actualités Activistes
   directory_hackerspaces: Hackerspaces
+  directory_conferences: Conférences
 
 index:
   title: Bienvenue sur le Fediverse
@@ -97,4 +98,5 @@ directory:
     jobs: Emploi
     news-activists: Actualités Activistes
     hackerspaces: Hackerspaces
+    conferences: Conférences
 

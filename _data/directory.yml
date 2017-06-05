@@ -1269,7 +1269,7 @@
   name: Le bib
   lang: fr
   tags:
-    - hackserpaces
+    - hackerspaces
 
 "Le_RESET@witches.town":
   name: Le RESET
@@ -1313,4 +1313,23 @@
   tags:
     - organizations
     - isp
+
+"acbm_com@mastodon.cloud":
+  name: Le Virus Informatique
+  lang: fr
+  tags:
+    - news
+    - technology
+
+"Rmll2017@unixcorn.xyz":
+  name: RMLL 2017
+  lang: fr
+  tags:
+    - conferences
+
+"Informatique_ou_libertes@mamot.fr":
+  name: Informatique ou libertés ?
+  lang: fr
+  tags:
+    - conferences
 
