@@ -58,6 +58,7 @@ titles:
   directory_jobs: Emploi
   directory_isp: Fournisseurs d'Accès à Internet
   directory_news-activists: Actualités Activistes
+  directory_hackerspaces: Hackerspaces
 
 index:
   title: Bienvenue sur le Fediverse
@@ -95,4 +96,5 @@ directory:
     isp: F.A.I.s
     jobs: Emploi
     news-activists: Actualités Activistes
+    hackerspaces: Hackerspaces
 

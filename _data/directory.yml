@@ -944,11 +944,11 @@
   lang: all
   tags:
     - mirrors
-    - sciences
+    - science
 
 
 "torrentfreak@framapiaf.org":
-  name: Torrent Freak
+  name: TorrentFreak
   lang: en
   tags:
     - mirrors
@@ -1171,7 +1171,7 @@
   tags:
     - organizations
     - technology
-
+    - isp
 
 "federationfdn@mastodon.xyz":
   name: Fédération FDN
@@ -1179,7 +1179,7 @@
   tags:
     - organizations
     - technology
-
+    - isp
 
 "nos_oignons@mamot.fr":
   name: Nos Oignons
@@ -1193,16 +1193,12 @@
   name: Aquilenet
   lang: fr
   tags:
-    - organizations
-    - technology
     - isp
 
 "scani89@mastodon.gougere.fr":
   name: SCANI
   lang: fr
   tags:
-    - organizations
-    - technology
     - isp
 
 
@@ -1210,7 +1206,6 @@
   name: yunohost
   lang: all
   tags:
-    - organizations
     - technology
     - isp
 
@@ -1219,8 +1214,6 @@
   name: FAImaison
   lang: fr
   tags:
-    - organizations
-    - technology
     - isp
 
 
@@ -1228,8 +1221,6 @@
   name: Ilico
   lang: fr
   tags:
-    - organizations
-    - technology
     - isp
 
 
@@ -1274,4 +1265,52 @@
     - news-activists
     - organizations
 
+"lebib@mamot.fr":
+  name: Le bib
+  lang: fr
+  tags:
+    - hackserpaces
+
+"Le_RESET@witches.town":
+  name: Le RESET
+  lang: fr
+  tags:
+    - hackerspaces
+
+"grifon@mammout.bzh":
+  name: Grifon
+  lang: fr
+  tags:
+    - isp
+
+"silence@mastodon.social":
+  name: Silence
+  lang: all
+  tags:
+    - technology
+
+"monero@framapiaf.org":
+  name: Monero
+  lang: en
+  tags:
+    - economy
+
+"AutomationOfStyle@botsin.space":
+  name: AutomationOfStyle
+  lang: en
+  tags:
+    - bots
+
+"83bot@mst3k.interlinked.me":
+  name: 83bot
+  lang: en
+  tags:
+    - bots
+
+"aprilorg@pouet.april.org":
+  name: April.org
+  lang: fr
+  tags:
+    - organizations
+    - isp
 

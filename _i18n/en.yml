@@ -62,6 +62,7 @@ titles:
   directory_news-activists: News Activists
   directory_jobs: Jobs
   directory_isp: Internet Service Providers
+  directory_hackerspaces: Hackerspaces
 
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
@@ -111,3 +112,5 @@ directory:
     news-activists: News Activists
     jobs: Jobs
     isp: ISPs
+    hackerspaces: Hackerspaces
+
