@@ -34,3 +34,7 @@
 .message-translation {
   display: none;
 }
+
+nav.tags {
+  line-height: 2.3em;
+}
