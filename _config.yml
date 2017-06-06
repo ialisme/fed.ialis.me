@@ -15,5 +15,6 @@ permalink: "/news/:year/:month/:day/:title.html"
 # I18n
 
 languages: ["en", "fr"]
+directory_languages: ["en", "fr", "es", "de", "nl", "he", "jp"]
 exclude_from_localization: ["assets"]
 

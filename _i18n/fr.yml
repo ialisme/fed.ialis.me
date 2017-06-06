@@ -10,7 +10,9 @@ langs:
   fr: Français
   es: Espagnol
   de: Allemand
-  du: Néerlandais
+  nl: Néerlandais
+  he: Hébreu
+  jp: Japonais
 
 categories:
   guides: Guides

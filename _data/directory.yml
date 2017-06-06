@@ -885,7 +885,7 @@
   name: Lacan Quotidien Reloaded
   lang: fr
   tags:
-    -mirrors
+    - mirrors
     - news
 
 
@@ -1382,7 +1382,7 @@
   lang: fr
   tags:
     - bots
-    - entertrainment
+    - entertainment
 
 "rms@gnusocial.io":
   name: Richard M. Stallman
@@ -1415,7 +1415,7 @@
   name: DansTonChat
   lang: fr
   tags:
-    - entertrainment
+    - entertainment
 
 "lealinux@mastodon.cloud":
   name: Léa-Linux
@@ -1461,11 +1461,12 @@
     - organizations
     - technology
 
-"nextcoulders@gnusocial.de":
-  name: Nextclouders
+"nextcloud@mastodon.xyz":
+  name: Nextcloud
   lang: en
   tags:
     - organizations
+    - opensource
     - technology
 
 "tehnoetic@quitter.no":
@@ -1618,12 +1619,14 @@
   tags:
     - organizations
     - ecology
+    - local
 
 "FullMediasInc@mastodon.social":
   name: Full Médias Inc.
   lang: fr
   tags:
-    - organization
+    - organizations
+    - local
     - radio
 
 "PasSageEnSeine@ecurie.social":
@@ -1649,7 +1652,7 @@
 
 
 "LobbyFelin@mastodon.cx":
-  Name: Lobby Felin
+  name: Lobby Felin
   lang: fr
   tags: 
     - entertainment
@@ -2027,8 +2030,8 @@
     - official
     - technology
 
-"globalcoop@social.coop":
-  name: Global Coop
+"glocalcoop@social.coop":
+  name: Glocal Coop
   lang: en
   tags:
     - coops
@@ -2068,4 +2071,108 @@
   tags:
     - ecology
 
+"afnic@mastodon.social":
+  name: Afnic
+  lang: ['fr', 'en']
+  tags:
+    - organizations
+    - technology
+
+"Walrus@framapiaf.org":
+  name: Walrus Books
+  lang: fr
+  tags:
+    - culture
+    - entertainment
+
+"Liberapay@mastodon.rocks":
+  name: Liberapay
+  lang: en
+  tags:
+    - organizations
+    - economy
+
+"indie@mastodon.social":
+  name: Ind.ie
+  lang: en
+  tags:
+    - companies
+    - technology
+
+"Haaretz@tooot.im":
+  name: Haaretz
+  lang: he
+  tags:
+    - mirrors
+    - news
+
+"haaretzzz@tooot.im":
+  name: haaretzzz
+  lang: he
+  tags:
+    - mirrors
+    - news
+
+"mekomit@tooot.im":
+  name: mekomit
+  lang: he
+  tags:
+    - mirrors
+    - news
+    - news-activists
+    - local
+    - politics
+
+"ha_makom@tooot.im":
+  name: ha_makom
+  lang: he
+  tags:
+    - mirrors
+    - news
+    - news-activists
+    - local
+    - politics
+
+"GonzoVice@tooot.im":
+  name: Hunter S. Thompson
+  lang: en
+  tags:
+    - mirrors
+
+"qikipedia@tooot.im":
+  name: The QI Elves
+  lang: en
+  tags:
+    - mirrors
+    - culture
+
+"OpenCulture@tooot.im":
+  name: Open Culture
+  lang: en
+  tags:
+    - mirrors
+    - technology
+    - culture
+    - opensource
+
+"HanochLevin@tooot.im":
+  name: Hanoch Levin
+  lang: he
+  tags:
+    - mirrors
+
+"47news@mstdn.jp":
+  name: 47news
+  lang: jp
+  tags:
+    - mirrors
+    - news
+
+"jupiterbroadcasting@gnusocial.de":
+  name: Jupiter Broadcasting
+  lang: en
+  tags:
+    - technology
+    - opensource
+    - podcasts
 

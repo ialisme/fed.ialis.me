@@ -11,11 +11,9 @@ layout: page
   {% endfor %}
   <br/>
   <a class="tag is-medium is-light" href="#">All Languages</a>
-  <a class="tag is-medium is-white" href="#">English</a>
-  <a class="tag is-medium is-white" href="#">Spanish</a>
-  <a class="tag is-medium is-white" href="#">French</a>
-  <a class="tag is-medium is-white" href="#">German</a>
-  <a class="tag is-medium is-white" href="#">Dutch</a>
+  {% for lang in site.directory_languages %}
+  <a class="tag is-medium {% if page.lang == lang %} is-light{% else %}is-white{% endif %}" href="#">{% t langs.{{ lang }} %}</a>
+  {% endfor %}
 </nav>
 <br/><br/>
   <div class="columns is-multiline">
