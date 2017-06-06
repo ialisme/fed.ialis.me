@@ -69,11 +69,13 @@ titles:
   directory_radio: Radios
   directory_shops: Shops
   directory_opensource: Open Source
-  directory_community: Communities
+  directory_communities: Communities
   directory_companies: Companies
   directory_ecology: Ecology
   directory_education: Education
   directory_local: Local
+  directory_coops: Cooperatives
+  directory_official: Official
 
 descriptions:
   index: A guide to the Fediverse and its variations (Mastodon, GNU Social, ...).
@@ -130,9 +132,11 @@ directory:
     radio: Radios
     shops: Shops
     opensource: Open Source
-    community: Communities
+    communities: Communities
     companies: Companies
     ecology: Ecology
     education: Education
     local: Local
+    coops: Cooperatives
+    official: Official
 

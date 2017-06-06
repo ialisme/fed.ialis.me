@@ -825,11 +825,11 @@
     - mirrors
 
 
-"anssi_fr@framapiaf.org":
+"ANSSI@mastodon.etalab.gouv.fr":
   name: ANSSI
   lang: fr
   tags:
-    - mirrors
+    - official
     - technology
 
 
@@ -855,7 +855,7 @@
   tags:
     - mirrors
     - technology
-    - sciences
+    - science
 
 
 "FossoyeurDeFilms@framapiaf.org":
@@ -1502,7 +1502,7 @@
   tags:
     - technology
     - opensource
-    - community
+    - communities
 
 "Qwant@mastodon.social":
   name: Qwant
@@ -1517,7 +1517,7 @@
   tags:
     - technology
     - opensource
-    - community
+    - communities
     - mirrors
 
 "Mozilla@mamot.fr":
@@ -1526,7 +1526,7 @@
   tags:
     - technology
     - opensource
-    - community
+    - communities
 
 "linuxmint@mamot.fr":
   name: LinuxMint Francophone
@@ -1534,7 +1534,7 @@
   tags:
     - technology
     - opensource
-    - community
+    - communities
 
 "VousNousIls@octodon.social":
   name: VousNousIls
@@ -1652,7 +1652,7 @@
   Name: Lobby Felin
   lang: fr
   tags: 
-    - entertrainement
+    - entertainment
 
 
 "maisouvaleweb@mstdn.fr":
@@ -1679,7 +1679,7 @@
   lang: fr
   tags:
     - local
-    - community
+    - communities
     - technology
     - culture
 
@@ -1689,7 +1689,7 @@
   lang: fr
   tags:
     - technology
-    - sciences
+    - science
     - news
 
 
@@ -1698,7 +1698,7 @@
   lang: fr
   tags:
     - politics
-    - arts
+    - art
 
 
 "commitstrip@mamot.fr":
@@ -1706,8 +1706,8 @@
   lang: en
   tags:
     - technology
-    - entertrainement
-    - arts
+    - entertainment
+    - art
 
 
 "Geekzone@octodon.social":
@@ -1715,7 +1715,7 @@
   lang: fr
   tags:
     - technology
-    - entertrainement
+    - entertainment
 
 
 "eparody@mamot.fr":
@@ -1738,7 +1738,7 @@
   lang: fr
   tags:
     - news-activists
-    - community
+    - communities
     - organizations
 
 
@@ -1761,11 +1761,10 @@
   name: Indice
   lang: fr
   tags:
-    - community
+    - communities
     - culture
     - politics
     - ecology
-
 
 "Reporterre@mamot.fr":
   name: Reporterre
@@ -1787,8 +1786,8 @@
   name: Hygiène Mentale
   lang: fr
   tags:
-    - sciences
-    - entertrainement
+    - science
+    - entertainment
     - podcasts
 
 
@@ -1797,8 +1796,8 @@
   lang: fr
   tags:
     - culture
-    - entertrainement
-    - sciences
+    - entertainment
+    - science
 
 
 "LyonScience@mamot.fr":
@@ -1812,15 +1811,15 @@
   name: Temps_mort
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
     - culture
 
 
-"sciencesetavenir@3.nu":
-  name: Sciences et avenir
+"scienceetavenir@3.nu":
+  name: science et avenir
   lang: fr
   tags:
-    - sciences
+    - science
     - mirrors
 
 
@@ -1829,7 +1828,7 @@
   lang: fr
   tags:
     - culture
-    - entertrainement
+    - entertainment
 
 
 "radiolondres@framapiaf.org":
@@ -1837,7 +1836,7 @@
   lang: fr
   tags:
     - politics
-    - entertrainement
+    - entertainment
 
 
 "AQUINUM@toot.aquilenet.fr":
@@ -1862,7 +1861,7 @@
   name: Le Gouvernement d'Internet
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
 
 
 "The_Daily_Meme@social.tchncs.de":
@@ -1877,7 +1876,7 @@
   lang: en
   tags:
     - art
-    - entertrainement
+    - entertainment
 
 
 "fortune@mamot.fr":
@@ -1885,7 +1884,7 @@
   lang: en
   tags:
     - bots
-    - entertrainement
+    - entertainment
     - culture
 
 
@@ -1893,7 +1892,7 @@
   name: Le Poil Qui Gratte
   lang: fr
   tags:
-    - entertrainement
+    - entertainment
 
 
 "geekactu@mamot.fr":
@@ -1917,4 +1916,156 @@
   lang: fr
   tags:
     - education
+
+"TV5Monde@mamot.fr":
+  name: TV5Monde
+  lang: fr
+  tags:
+    - news
+
+"LesChampsLibres@mamot.fr":
+  name: Les Champs Libres
+  lang: fr
+  tags:
+    - hackerspaces
+    - local
+
+"artlibre@mastodon.zaclys.com":
+  name: Art Libre
+  lang: fr
+  tags:
+    - opensource
+    - art
+
+"quaibranly@mamot.fr":
+  name: Musée du Quai Branly
+  lang: fr
+  tags:
+    - local
+    - art
+    - culture
+
+"rezo@mamot.fr":
+  name: rezo
+  lang: fr
+  tags:
+    - news-activists
+    - curators
+
+"LPO35@framapiaf.org":
+  name: LPO Ille-et-Vilaine
+  lang: fr
+  tags:
+    - ecology
+    - organizations
+    - local
+
+"Noisebridge@noisebridge.social":
+  name: Noisebridge
+  lang: en
+  tags:
+    - hackerspaces
+
+"WhatIsMyQuest@vulpine.club":
+  name: What Is My Quest ?
+  lang: en
+  tags:
+    - bots
+
+"aljazeera@squeet.me":
+  name: Al Jazeera
+  lang: en
+  tags:
+    - news
+    - mirrors
+
+"coopcycle@mastodon.social":
+  name: CoopCycle
+  lang: fr
+  tags:
+    - coops
+    - technology
+
+"DINSIC@mastodon.etalab.gouv.fr":
+  name: DINSIC
+  lang: fr
+  tags:
+    - official
+    - technology
+
+"etalab@mastodon.etalab.gouv.fr":
+  name: Etalab
+  lang: fr
+  tags:
+    - official
+    - technology
+
+"RIE@mastodon.etalab.gouv.fr":
+  name: SCN RIE
+  lang: fr
+  tags:
+    - official
+
+"CIMI@mastodon.etalab.gouv.fr":
+  name: CIMI
+  lang: fr
+  tags:
+    - official
+
+"GreenTechVerte@mastodon.etalab.gouv.fr":
+  name: GreenTech Verte
+  lang: fr
+  tags:
+    - official
+    - technology
+    - ecology
+
+"datagouvfr@mastodon.etalab.gouv.fr":
+  name: data.gouv.fr
+  lang: fr
+  tags:
+    - official
+    - technology
+
+"globalcoop@social.coop":
+  name: Global Coop
+  lang: en
+  tags:
+    - coops
+    - opensource
+    - technology
+
+"Venezuela@octodon.social":
+  name: Venezuela
+  lang: en
+  tags:
+    - news-activists
+
+"f4dc@social.coop":
+  name: F4DC
+  lang: en
+  tags:
+    - local
+    - coops
+
+"internetowners@social.coop":
+  name: The Internet Of Ownership
+  lang: en
+  tags:
+    - technology
+    - coops
+
+"platformcoop@social.coop":
+  name: Platform Cooperativism
+  lang: en
+  tags:
+    - technology
+    - coops
+
+"josemurilo@ecodigital.social":
+  name: Ecologia Digital
+  lang: en
+  tags:
+    - ecology
+
 

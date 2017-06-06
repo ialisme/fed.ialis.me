@@ -65,11 +65,13 @@ titles:
   directory_radio: Radios
   directory_shops: Boutiques
   directory_opensource: Open Source
-  directory_community: Communautés
+  directory_communities: Communautés
   directory_companies: Sociétés
   directory_ecology: Écologie
   directory_education: Éducation
   directory_local: Local
+  directory_coops: Coopératives
+  directory_official: Officiel
 
 index:
   title: Bienvenue sur le Fediverse
@@ -114,9 +116,11 @@ directory:
     radio: Radio
     shops: Boutique
     opensource: Open Source
-    community: Communauté
+    communities: Communauté
     companies: Société
     ecology: Écologie
     education: Éducation
     local: Local
+    coops: Coopératives
+    official: Officiel
 
