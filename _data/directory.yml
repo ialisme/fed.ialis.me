@@ -2069,3 +2069,95 @@
     - ecology
 
 
+"WhatIsMyQuest@vulpine.club":
+  name: What Is My Quest ?
+  lang: en
+  tags:
+    - bots
+    - entertrainement
+
+
+"aljazeera@squeet.me":
+  name: Al Jazzera
+  lang: en
+  tags:
+    - news
+    - mirrors
+
+
+"coopcycle@mastodon.social":
+  name: CoopCycle
+  lang: fr
+  tags:
+    - opensource
+    - coops
+
+
+"Pidila@mastodon.etalab.gouv.fr":
+  name: Pidila
+  lang: fr
+  tags:
+    - technology
+
+
+"WritingPrompts@mastodon.social":
+  name: Writting Prompts
+  lang: en
+  tags:
+    - culture
+    - entertrainement
+
+
+"Huffingtonpost@mastodon.social":
+  name: Huffington Post
+  lang: en
+  tags:
+    - news
+
+
+"SHA2017camp@hostux.social":
+  name: SHA2017
+  lang: en
+  tags:
+    - conferences
+    - hackerspaces
+    - technology
+
+
+"nextbutters@gnusocial.de":
+  name: NextButters
+  lang: en
+  tags:
+    - techno
+    - opensource
+    - companies
+
+
+"OCCRP@mastodon.butt":
+  name: OCCRP
+  lang: en
+  tags:
+    - news-activists
+
+
+"derechosdigitales@social.undernet.uy":
+  name: Derechos Digitales
+  lang: es
+  tags:
+    - technology
+    - news-activists
+    - mirrors
+
+
+"apichat@mastodon.xyz":
+  name: Apichat
+  lang: fr
+  tags:
+    - technology
+
+
+
+
+
+
+  
