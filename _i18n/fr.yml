@@ -2,7 +2,7 @@ global:
   title: Le Guide du Fediverse
   description: Le guide du Fediverse et ses différentes dérivations (Mastodon, GNU Social, ...).
   lang_pick: "Langue:"
-  opensource: Source ouverte
+  opensource: Open Source
   free: Gratuit
 langs:
   all: Toutes
@@ -84,7 +84,7 @@ apps:
   platforms:
     ios: Pour iOS (iPhone, iPad)
     android: Pour Android
-    terminal: Invite de commande
+    terminal: En ligne de commande
 
 resources:
   categories:
