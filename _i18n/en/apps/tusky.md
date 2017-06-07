@@ -1,1 +1,1 @@
-Tuskyu zkdkdks djdksk djfdkdkdss fdkkdfkd
+Tusky is an open-source Android client for Mastodon

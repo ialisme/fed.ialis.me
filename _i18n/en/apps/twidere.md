@@ -1,2 +1,1 @@
-A client that also supports Twitter.
-
+Twidere is a multi-services client that supports Twitter, Fanfou, Mastodon and StatusNet

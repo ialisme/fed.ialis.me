@@ -1,1 +1,1 @@
-Written in Python
+A Mastodon CLI client written in Python
