@@ -18,7 +18,7 @@
 - id: mstdn_wiki_fr
   name: "Mastodon Wiki (french)"
   lang: fr
-  link: http://fr.mstdn.wiki/Main_Page
+  link: http://fr.mstdn.wiki/Accueil
   categories:
     - guides
     - mastodon
@@ -26,7 +26,7 @@
 - id: mstdn_wiki_ja
   name: "Mastodon Wiki (japanese)"
   lang: ja
-  link: http://ja.mstdn.wiki/Main_Page
+  link: https://ja.mstdn.wiki/メインページ
   categories:
     - guides
     - mastodon
