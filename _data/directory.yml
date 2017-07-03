@@ -2270,8 +2270,11 @@
     - bots
     - entertainment
     - meta
-    
 
-
-
-  
+"kde@mastodon.technology":
+  name: KDE
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
