@@ -953,13 +953,6 @@
     - mirrors
     - organizations
 
-
-"anarchismhub@todon.nl":
-  name: Anarchism News
-  lang: en
-  tags:
-    - news-activists
-
 "WTF@mastodon.etalab.gouv.fr":
   name: Glossary Bot
   lang: fr
@@ -986,12 +979,6 @@
   tags:
     - bots
     - entertainment
-
-"anarchismehub@todon.nl":
-  name: Anarchisme-nieuws
-  lang: nl
-  tags:
-    - news-activists
 
 "@letemps@mastodon.blue":
   name: LeTemps.ch
@@ -1236,7 +1223,7 @@
     - news-activists
 
 "enough14@quitter.se":
-  name: enough14
+  name: Enough is Enough
   lang: en
   tags:
     - news-activists
@@ -2278,3 +2265,70 @@
     - organizations
     - technology
     - opensource
+
+"anarchismhub@todon.nl":
+  name: Anarchism News
+  lang: en
+  tags:
+    - news-activists
+    - opinion
+
+"anarchismehub@todon.nl":
+  name: Anarchisme-nieuws
+  lang: nl
+  tags:
+    - news-activists
+    - opinion
+
+"anarquismohub@todon.nl":
+  name: Noticias anarquistas
+  lang: es
+  tags:
+    - news-activists
+    - opinion
+
+"krapuul@todon.nl":
+  name: Krapuul
+  lang: nl
+  tags:
+    - news
+    - news-activists
+    - opinion
+
+"joop_nl@todon.nl":
+  name: Joop
+  lang: nl
+  tags:
+    - news
+    - opinion
+
+"counterpunch@todon.nl":
+  name: CounterPunch
+  lang: en
+  tags:
+    - news
+    - news-activists
+    - opinion
+
+"degroene@todon.nl":
+  name: De Groene
+  lang: nl
+  tags:
+    - news
+    - opinion
+
+"dewereldmorgen@todon.nl":
+  name: DeWereldMorgen.be
+  lang: 
+  tags:
+    - news
+    - opinion
+    - mirrors
+
+"decorrespondent@todon.nl":
+  name: De Correspondent
+  lang: nl
+  tags:
+    - news
+    - opinion
+    - mirrors
