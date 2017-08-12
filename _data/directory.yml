@@ -2340,3 +2340,15 @@
     - news-activists
     - opinion
     - mirrors
+
+"nosnieuwsbot@mstdn.nl":
+  name: NOS Nieuws
+  lang: nl
+  tags:
+    - news
+    
+"volkskrantbot@mstdn.nl":
+  name: Volkskrant Bot
+  lang: nl
+  tags:
+    - news
