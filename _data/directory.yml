@@ -2199,7 +2199,7 @@
   lang: en
   tags:
     - culture
-    - entertrainement
+    - entertainment
 
 
 "Huffingtonpost@mastodon.social":
@@ -2272,6 +2272,7 @@
   tags:
     - news-activists
     - opinion
+    - politics
 
 "anarchismehub@todon.nl":
   name: Anarchisme-nieuws
@@ -2279,6 +2280,7 @@
   tags:
     - news-activists
     - opinion
+    - politics
 
 "anarquismohub@todon.nl":
   name: Noticias anarquistas
@@ -2286,6 +2288,7 @@
   tags:
     - news-activists
     - opinion
+    - politics
 
 "krapuul@todon.nl":
   name: Krapuul
@@ -2340,6 +2343,7 @@
     - news-activists
     - opinion
     - mirrors
+    - politics
 
 "nosnieuwsbot@mstdn.nl":
   name: NOS Nieuws
@@ -2352,3 +2356,9 @@
   lang: nl
   tags:
     - news
+
+"foksukfan@mstdn.nl":
+  name: Fokke & Sukke Fan
+  lang: nl
+  tags:
+    - entertainment
