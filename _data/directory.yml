@@ -2305,8 +2305,16 @@
     - news
     - opinion
 
-"counterpunch@todon.nl":
+"counterpunch@botsin.space":
   name: CounterPunch
+  lang: en
+  tags:
+    - news
+    - news-activists
+    - opinion
+    
+"alternet@botsin.space":
+  name: AlterNet
   lang: en
   tags:
     - news
