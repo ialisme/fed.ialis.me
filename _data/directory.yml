@@ -50,7 +50,7 @@
     - mirrors
     - news
 
-"lexpress@framapiaf.org":
+"lexpressbot@friends.nico":
   name: "L'Express"
   lang: fr
   tags:
@@ -841,7 +841,7 @@
       - technology
 
 
-"courrierinter@framapiaf.org":
+"courrierinterbot@friends.nico":
   name: Courrier International
   lang: fr
   tags:
@@ -858,7 +858,7 @@
     - science
 
 
-"FossoyeurDeFilms@framapiaf.org":
+"FossoyeurdeFilms@friends.nico":
   name: Le Fossoyeur de Films
   lang: fr
   tags:
