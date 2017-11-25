@@ -2377,3 +2377,11 @@
   tags:
     - mirror
     - News Activists
+
+"conservancy@mastodon.technology":
+  name: Software Freedom Conservancy
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
