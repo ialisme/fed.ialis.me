@@ -2417,3 +2417,10 @@
     - organizations
     - technology
     - opensource
+
+"Kodi@mastodon.cloud":
+  name: Kodi
+  lang: en
+  tags:
+    - opensource
+    - technology
