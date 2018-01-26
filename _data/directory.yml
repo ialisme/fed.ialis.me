@@ -1363,6 +1363,7 @@
   tags:
     - organizations
     - technology
+    - opensource
 
 "KaamelBott@hostux.social":
   name: Kaamel(b)ott
@@ -2392,3 +2393,34 @@
   tags:
     - opinion
     - politics
+
+"exodus@framapiaf.org":
+  name: Exodus Privacy
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"LiberaPay@mastodon.rocks":
+  name: LiberaPay
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"privacylab@mastodon.social":
+  name: Yale Privacy Lab
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"Kodi@mastodon.cloud":
+  name: Kodi
+  lang: en
+  tags:
+    - opensource
+    - technology
