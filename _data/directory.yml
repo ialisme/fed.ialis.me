@@ -72,13 +72,12 @@
     - news
 
 
-"bbc@social.undernet.uy":
-  name: BBC
+"@bbcworld@botsin.space":
+  name: BBC News (World)
   lang: en
   tags:
     - mirrors
     - news
-
 
 "rmcbfmi24@botsin.space":
   name: RMC/BMF/I24 News
@@ -86,7 +85,6 @@
   tags:
     - mirrors
     - news
-
 
 "artefr@mamot.fr":
   name: Arte
@@ -103,21 +101,18 @@
     - mirrors
     - news
 
-
-"guardian@social.undernet.uy":
+"guardian@bot.undernet.uy":
   name: The Guardian
   lang: en
   tags:
     - mirrors
     - news
 
-
 "curator@techn.ical.ist":
   name: Technicalist Curator
   lang: en
   tags:
     - curators
-
 
 "paris_luttes@mamot.fr":
   name: Paris Luttes Info
@@ -132,14 +127,11 @@
     - entertainment
     - mirrors
 
-
 "mnm@mastodon.eliotberriot.com":
   name: MNM
   lang: en
   tags:
     - meta
-
-
 
 "actual_instances@misanthropy.wang":
   name: Actual Mastodon Instances
@@ -155,14 +147,12 @@
     - curators
     - bots
 
-
 "AmbassadorBot@mst3k.interlinked.me":
   name: mst3k Ambassador Bot
   lang: en
   tags:
     - curators
     - bots
-
 
 "federationbot@mastodon.direct":
   name: Federation Bot
@@ -171,7 +161,6 @@
     - bots
     - meta
 
-
 "aquarium@botsin.space":
   name: Emoji Aquarium
   lang: all
@@ -179,14 +168,12 @@
     - art
     - bots
 
-
 "inkblot@toot.works":
   name: Inkblot
   lang: all
   tags:
     - art
     - bots
-
 
 "HowCostETH@masto.themimitoof.fr":
   name: How Cost ETH?
@@ -196,7 +183,6 @@
     - bots
     - economy
 
-
 "HowCostBTC@masto.themimitoof.fr":
   name: How Cost BTC?
   lang: en
@@ -205,7 +191,6 @@
     - bots
     - economy
 
-
 "phys@social.oalm.gub.uy":
   name: Phys
   lang: en
@@ -213,7 +198,6 @@
     - news
     - mirrors
     - science
-
 
 "nasa@social.oalm.gub.uy":
   name: NASA
@@ -229,255 +213,223 @@
   tags:
     - organization
 
-
 "arretsurimages@mamot.fr":
   name: Arrêt sur Images
   lang: fr
   tags:
     - news
 
-
-"intercept@social.undernet.uy":
+"intercept@bot.undernet.uy":
   name: The intercept
   lang: en
   tags:
     - news
     - mirrors
 
-
-"lr21@social.undernet.uy":
+"lr21@bot.undernet.uy":
   name: LR21
   lang: es
   tags:
     - news
     - mirrors
 
-
-"mvdcomm@social.undernet.uy":
+"mvdcomm@bot.undernet.uy":
   name: Montevideo COMM
   lang: es
   tags:
     - news
     - mirrors
 
-
-"portal180@social.undernet.uy":
+"portal180@bot.undernet.uy":
   name: Portal180
   lang: es
   tags:
     - news
     - mirrors
 
-
-"sociedaduruguaya@social.undernet.uy":
+"sociedaduruguaya@bot.undernet.uy":
   name: Sociedad Uruguaya
   lang: es
   tags:
     - news
     - mirrors
 
-
-"uypress@social.undernet.uy":
+"uypress@bot.undernet.uy":
   name: UY Press
   lang: es
   tags:
     - news
     - mirrors
 
-
-"brecha@social.undernet.uy":
+"brecha@bot.undernet.uy":
   name: UY Press
   lang: es
   tags:
     - news
     - mirrors
 
-
-"espectador810@social.undernet.uy":
+"espectador810@bot.undernet.uy":
   name: El Espectador
   lang: es
   tags:
     - news
     - mirrors
 
-
-"elobservador@social.undernet.uy":
+"elobservador@bot.undernet.uy":
   name: El Observador
   lang: es
   tags:
     - news
     - mirrors
 
-
-"elpais@social.undernet.uy":
+"elpais@bot.undernet.uy":
   name: El País
   lang: es
   tags:
     - news
     - mirrors
 
-
-"larepublica@social.undernet.uy":
+"larepublica@bot.undernet.uy":
   name: La República
   lang: es
   tags:
     - news
     - mirrors
 
-
-"presidencia@social.undernet.uy":
+"presidencia@bot.undernet.uy":
   name: Presidencia
   lang: es
   tags:
     - news
     - mirrors
 
-
-"lanacion@social.undernet.uy":
+"lanacion@bot.undernet.uy":
   name: La Nación
   lang: es
   tags:
     - news
     - mirrors
 
-
-"infobae@social.undernet.uy":
+"infobae@bot.undernet.uy":
   name: Infobae
   lang: es
   tags:
     - news
     - mirrors
 
-
-"pagina12@social.undernet.uy":
+"pagina12@bot.undernet.uy":
   name: Página12
   lang: es
   tags:
     - news
     - mirrors
 
-
-"ambitofinanciero@social.undernet.uy":
+"ambitofinanciero@bot.undernet.uy":
   name: Ámbito Financiero
   lang: es
   tags:
     - news
     - mirrors
 
-
-"eldesconcierto@social.undernet.uy":
+"eldesconcierto@bot.undernet.uy":
   name: El Desconcierto
   lang: es
   tags:
     - news
     - mirrors
 
-
-"elmostrador@social.undernet.uy":
+"elmostrador@bot.undernet.uy":
   name: El Mostrador
   lang: es
   tags:
     - news
     - mirrors
 
-
-"lamarea@social.undernet.uy":
+"lamarea@bot.undernet.uy":
   name: La Marea
   lang: es
   tags:
     - news
     - mirrors
 
-
-"lahaine@sociall.undernet.uy":
+"lahaine@bot.undernet.uy":
   name: La Haine
   lang: es
   tags:
     - news
     - mirrors
 
-
-"alasbarricadas@social.undernet.uy":
+"alasbarricadas@bot.undernet.uy":
   name: A Las Barricadas
   lang: es
   tags:
     - news
     - mirrors
 
-
-"horizontal@social.undernet.uy":
+"horizontal@bot.undernet.uy":
   name: Horizontal
   lang: es
   tags:
     - news
     - mirrors
 
-
-"eljueves@social.undernet.uy":
+"eljueves@bot.undernet.uy":
   name: El Jueaves
   lang: es
   tags:
     - news
     - mirrors
 
-
-"diagonal@social.undernet.uy":
+"diagonal@bot.undernet.uy":
   name: Periódico Diagonal
   lang: es
   tags:
     - news
     - mirrors
 
-
-"derechosdigitales@social.undernet.uy":
+"derechosdigitales@bot.undernet.uy":
   name: Derechos Digitales
   lang: es
   tags:
     - news
     - mirrors
 
-
-"ciperchile@social.undernet.uy":
+"ciperchile@bot.undernet.uy":
   name: Ciper Chile
   lang: es
   tags:
     - news
     - mirrors
 
-
-"radiouchile@social.undernet.uy":
+"radiouchile@bot.undernet.uy":
   name: RadioUChile
   lang: es
   tags:
     - news
     - mirrors
 
-
-"revistaanfibia@social.undernet.uy":
+"revistaanfibia@bot.undernet.uy":
   name: Revista Anfibia
   lang: es
   tags:
     - news
     - mirrors
 
-
-"portaloaca@social.undernet.uy":
+"portaloaca@bot.undernet.uy":
   name: Portal OACA
   lang: es
   tags:
     - news
     - mirrors
 
-
-"adnradio@social.undernet.uy":
+"adnradio@bot.undernet.uy":
   name: ADN Radio
   lang: es
   tags:
     - news
     - mirrors
 
-
-"amnesty@social.undernet.uy":
+"amnesty@bot.undernet.uy":
   name: Amnesty International
   lang: en
   tags:
@@ -485,30 +437,18 @@
     - organizations
     - mirrors
 
-
-"rt@social.undernet.uy":
+"rt@bot.undernet.uy":
   name: RT
   lang: en
   tags:
     - news
     - mirrors
 
-
-"democracynow@social.undernet.uy":
-  name: DemocracyNow!
-  lang: es
+"spiegel@gnusocial.de":
+  name: Spiegel Online
+  lang: de
   tags:
     - news
-    - mirrors
-
-
-"spiegel@social.undernet.uy":
-  name: Spiegel
-  lang: es
-  tags:
-    - news
-    - mirrors
-
 
 "skyandtelescope@social.oalm.gub.uy":
   name: Sky&Telescope
@@ -517,14 +457,12 @@
     - science
     - bots
 
-
-"dxzone@social.undernet.uy":
+"dxzone@bot.undernet.uy":
   name: DX Zone
   lang: en
   tags:
     - science
     - culture
-
 
 "aanda@social.oalm.gub.uy":
   name: Astronomy and Astrophysics
@@ -544,7 +482,6 @@
   tags:
     - mirrors
     - art
-
 
 "aavso@social.oalm.gub.uy":
   name: AAVSO
@@ -635,49 +572,28 @@
     - science
     - mirrors
 
-
-"tedtalks@social.undernet.uy":
-  name: TED Talks
-  lang: en
-  tags:
-    - science
-    - technology
-    - mirrors
-
-
-"steam@social.undernet.uy":
-  name: Steam
-  lang: en
-  tags:
-    - technology
-    - mirrors
-
-
-"cnet@social.undernet.uy":
+"cnet@bot.undernet.uy":
   name: CNET
   lang: en
   tags:
     - technology
     - mirrors
 
-
-"theverge@social.undernet.uy":
+"theverge@bot.undernet.uy":
   name: The Verge
   lang: en
   tags:
     - technology
     - mirrors
 
-
-"gizmodo@social.undernet.uy":
+"gizmodo@bot.undernet.uy":
   name: Gizmodo
   lang: en
   tags:
     - technology
     - mirrors
 
-
-"wired@social.undernet.uy":
+"wired@bot.undernet.uy":
   name: Wired
   lang: en
   tags:
@@ -685,7 +601,7 @@
     - mirrors
 
 
-"arstechnica@social.undernet.uy":
+"arstechnica@bot.undernet.uy":
   name: Ars Technica
   lang: en
   tags:
@@ -693,7 +609,7 @@
     - mirrors
 
 
-"phoronix@social.undernet.uy":
+"phoronix@bot.undernet.uy":
   name: Phoronix
   lang: en
   tags:
@@ -701,7 +617,7 @@
     - mirrors
 
 
-"register@social.undernet.uy":
+"register@bot.undernet.uy":
   name: The Register
   lang: en
   tags:
@@ -709,7 +625,7 @@
     - mirrors
 
 
-"darkreading@social.undernet.uy":
+"darkreading@bot.undernet.uy":
   name: Dark Reading
   lang: en
   tags:
@@ -725,7 +641,7 @@
     - bots
 
 
-"trustedsec@social.undernet.uy":
+"trustedsec@bot.undernet.uy":
   name: TrustedSec
   lang: en
   tags:
@@ -733,7 +649,7 @@
     - mirrors
 
 
-"threatpost@social.undernet.uy":
+"threatpost@bot.undernet.uy":
   name: ThreatPost
   lang: en
   tags:
@@ -741,24 +657,14 @@
     - mirrors
 
 
-"nakedsecurity@social.undernet.uy":
+"nakedsecurity@bot.undernet.uy":
   name: Naked Security
   lang: en
   tags:
     - technology
     - mirrors
 
-
-"torproject@social.undernet.uy":
-  name: TorProject
-  lang: en
-  tags:
-    - technology
-    - mirrors
-    - organizations
-
-
-"netsec@social.undernet.uy":
+"netsec@bot.undernet.uy":
   name: /r/netsec
   lang: en
   tags:
@@ -766,7 +672,7 @@
     - mirrors
 
 
-"fayerwayer@social.undernet.uy":
+"fayerwayer@bot.undernet.uy":
   name: FayerWayer
   lang: en
   tags:
@@ -774,7 +680,7 @@
     - mirrors
 
 
-"powermetal@social.undernet.uy":
+"powermetal@bot.undernet.uy":
   name: Powermetal
   lang: es
   tags:
@@ -782,7 +688,7 @@
     - mirrors
 
 
-"blabbermouth@social.undernet.uy":
+"blabbermouth@bot.undernet.uy":
   name: Blabbermouth
   lang: en
   tags:
@@ -790,7 +696,7 @@
     - mirrors
 
 
-"smbc@social.undernet.uy":
+"smbc@bot.undernet.uy":
   name: SMBC
   lang: en
   tags:
@@ -799,7 +705,7 @@
     - entertainment
 
 
-"xkcd@social.undernet.uy":
+"xkcd@bot.undernet.uy":
   name: XKCD
   lang: en
   tags:
@@ -808,7 +714,7 @@
     - entertainment
 
 
-"dpreview@social.undernet.uy":
+"dpreview@bot.undernet.uy":
   name: DPReview
   lang: en
   tags:
@@ -816,7 +722,7 @@
     - mirrors
 
 
-"lizclimo@social.undernet.uy":
+"lizclimo@bot.undernet.uy":
   name: Liz Climo
   lang: en
   tags:
@@ -1237,12 +1143,6 @@
 
 "lebib@mamot.fr":
   name: Le bib
-  lang: fr
-  tags:
-    - hackerspaces
-
-"Le_RESET@witches.town":
-  name: Le RESET
   lang: fr
   tags:
     - hackerspaces
@@ -2354,30 +2254,18 @@
     - mirrors
     - politics
 
-"nosnieuwsbot@mstdn.nl":
+"@nos@botsin.space":
   name: NOS Nieuws
   lang: nl
   tags:
     - news
     
-"volkskrantbot@mstdn.nl":
-  name: Volkskrant Bot
-  lang: nl
-  tags:
-    - news
-
-"foksukfan@mstdn.nl":
-  name: Fokke & Sukke Fan
-  lang: nl
-  tags:
-    - entertainment
-
 "xychelsea@botsin.space":
   name: Chelsea E. Manning 
   lang: en
   tags:
     - mirror
-    - News Activists
+    - news-activists
 
 "conservancy@mastodon.technology":
   name: Software Freedom Conservancy
@@ -2424,3 +2312,76 @@
   tags:
     - opensource
     - technology
+
+"humanrights@botsin.space":
+  name: Human Rights News
+  lang: en
+  tags:
+    - human-rights
+    - news
+    - news-activists
+    - organizations
+    
+"nieuwsnl@botsin.space":
+  name: Nieuws.nl
+  lang: nl
+  tags:
+    - news
+    
+"nrc@botsin.space":
+  name: NRC
+  lang: nl
+  tags:
+    - news
+
+"tweakers@botsin.space":
+  name: Tweakers
+  lang: nl
+  tags:
+    - news
+    - technology
+    
+"omgubuntu@botsin.space":
+  name: OMG! Ubuntu!
+  lang: en
+  tags:
+    - news
+    - technology
+    
+"duitslandnieuws@botsin.space":
+  name: Duitslandnieuws.nl
+  lang: nl
+  tags:
+    - news
+
+"indymedia_de@botsin.space":
+  name: de.indymedia.org
+  lang: de
+  tags:
+    - news-activists
+    - opinion
+    - politics
+
+"wikipedia@botsin.space":
+  name: Wikipedia
+  lang: en
+  tags:
+    - news
+    - education
+    
+"trespass@todon.nl":
+  name: Trespass Journal 
+  lang: all
+  tags:
+    - news-activists
+    - opinion
+    - politics
+
+"anred@todon.nl":
+  name: Agencia de Noticias RedAcción 
+  lang: es
+  tags:
+    - news-activists
+    - opinion
+    - politics
+    
