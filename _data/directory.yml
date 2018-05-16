@@ -2140,3 +2140,11 @@
   tags:
     - mirror
     - news-activists
+
+"democracynow@botsin.space":
+  name: Democracy Now! 
+  lang: en
+  tags:
+    - news
+    - news-activists
+    - opinion
