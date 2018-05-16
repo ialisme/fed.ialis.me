@@ -101,6 +101,21 @@
     - mirrors
     - news
 
+"amnesty@bot.undernet.uy":
+  name: Amnesty International
+  lang: all
+  tags:
+    - news
+    - news-activists
+    - organizations
+
+"guardian@bot.undernet.uy":
+  name: The Guardian
+  lang: en
+  tags:
+    - mirrors
+    - news
+
 "guardian@bot.undernet.uy":
   name: The Guardian
   lang: en
@@ -2317,7 +2332,6 @@
   name: Human Rights News
   lang: en
   tags:
-    - human-rights
     - news
     - news-activists
     - organizations
