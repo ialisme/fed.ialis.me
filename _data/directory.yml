@@ -72,7 +72,7 @@
     - news
 
 
-"@bbcworld@botsin.space":
+"bbcworld@botsin.space":
   name: BBC News (World)
   lang: en
   tags:
@@ -241,85 +241,8 @@
     - news
     - mirrors
 
-"lr21@bot.undernet.uy":
-  name: LR21
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"mvdcomm@bot.undernet.uy":
-  name: Montevideo COMM
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"portal180@bot.undernet.uy":
-  name: Portal180
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"sociedaduruguaya@bot.undernet.uy":
-  name: Sociedad Uruguaya
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"uypress@bot.undernet.uy":
-  name: UY Press
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"brecha@bot.undernet.uy":
-  name: UY Press
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"espectador810@bot.undernet.uy":
-  name: El Espectador
-  lang: es
-  tags:
-    - news
-    - mirrors
-
 "elobservador@bot.undernet.uy":
   name: El Observador
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"elpais@bot.undernet.uy":
-  name: El País
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"larepublica@bot.undernet.uy":
-  name: La República
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"presidencia@bot.undernet.uy":
-  name: Presidencia
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"lanacion@bot.undernet.uy":
-  name: La Nación
   lang: es
   tags:
     - news
@@ -334,13 +257,6 @@
 
 "pagina12@bot.undernet.uy":
   name: Página12
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"ambitofinanciero@bot.undernet.uy":
-  name: Ámbito Financiero
   lang: es
   tags:
     - news
@@ -362,76 +278,6 @@
 
 "lamarea@bot.undernet.uy":
   name: La Marea
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"lahaine@bot.undernet.uy":
-  name: La Haine
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"alasbarricadas@bot.undernet.uy":
-  name: A Las Barricadas
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"horizontal@bot.undernet.uy":
-  name: Horizontal
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"eljueves@bot.undernet.uy":
-  name: El Jueaves
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"diagonal@bot.undernet.uy":
-  name: Periódico Diagonal
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"derechosdigitales@bot.undernet.uy":
-  name: Derechos Digitales
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"ciperchile@bot.undernet.uy":
-  name: Ciper Chile
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"radiouchile@bot.undernet.uy":
-  name: RadioUChile
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"revistaanfibia@bot.undernet.uy":
-  name: Revista Anfibia
-  lang: es
-  tags:
-    - news
-    - mirrors
-
-"portaloaca@bot.undernet.uy":
-  name: Portal OACA
   lang: es
   tags:
     - news
@@ -647,38 +493,6 @@
     - technology
     - mirrors
 
-
-"debian@quitter.se":
-  name: Debian
-  lang: en
-  tags:
-    - technology
-    - bots
-
-
-"trustedsec@bot.undernet.uy":
-  name: TrustedSec
-  lang: en
-  tags:
-    - technology
-    - mirrors
-
-
-"threatpost@bot.undernet.uy":
-  name: ThreatPost
-  lang: en
-  tags:
-    - technology
-    - mirrors
-
-
-"nakedsecurity@bot.undernet.uy":
-  name: Naked Security
-  lang: en
-  tags:
-    - technology
-    - mirrors
-
 "netsec@bot.undernet.uy":
   name: /r/netsec
   lang: en
@@ -686,63 +500,11 @@
     - technology
     - mirrors
 
-
-"fayerwayer@bot.undernet.uy":
-  name: FayerWayer
-  lang: en
-  tags:
-    - technology
-    - mirrors
-
-
-"powermetal@bot.undernet.uy":
-  name: Powermetal
-  lang: es
-  tags:
-    - music
-    - mirrors
-
-
-"blabbermouth@bot.undernet.uy":
-  name: Blabbermouth
-  lang: en
-  tags:
-    - music
-    - mirrors
-
-
-"smbc@bot.undernet.uy":
-  name: SMBC
-  lang: en
-  tags:
-    - art
-    - mirrors
-    - entertainment
-
-
-"xkcd@bot.undernet.uy":
-  name: XKCD
-  lang: en
-  tags:
-    - art
-    - mirrors
-    - entertainment
-
-
 "dpreview@bot.undernet.uy":
   name: DPReview
   lang: en
   tags:
     - art
-    - mirrors
-
-
-"lizclimo@bot.undernet.uy":
-  name: Liz Climo
-  lang: en
-  tags:
-    - art
-    - entertainment
     - mirrors
 
 
@@ -901,7 +663,7 @@
     - bots
     - entertainment
 
-"@letemps@mastodon.blue":
+"letemps@mastodon.blue":
   name: LeTemps.ch
   lang: fr
   tags:
@@ -1143,19 +905,6 @@
   tags:
     - news-activists
 
-"enough14@quitter.se":
-  name: Enough is Enough
-  lang: en
-  tags:
-    - news-activists
-
-"hatewatch@quitter.se":
-  name: Hatewatch Sweden
-  lang: en
-  tags:
-    - news-activists
-    - organizations
-
 "lebib@mamot.fr":
   name: Le bib
   lang: fr
@@ -1236,20 +985,6 @@
   lang: ['en', 'de']
   tags:
     - conferences
-
-"cryptopartybln@quitter.se":
-  name: Cryptoparty Berlin
-  lang: ['en', 'de']
-  tags:
-    - conferences
-
-"ccc@quitter.se":
-  name: Chaos Computer Club
-  lang: ['en', 'de']
-  tags:
-    - hackerspaces
-    - organizations
-    - technology
 
 "fairphone@social.wehos.st":
   name: Fairphone
@@ -2269,7 +2004,7 @@
     - mirrors
     - politics
 
-"@nos@botsin.space":
+"nos@botsin.space":
   name: NOS Nieuws
   lang: nl
   tags:
