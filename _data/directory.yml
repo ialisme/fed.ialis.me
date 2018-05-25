@@ -2148,3 +2148,12 @@
     - news
     - news-activists
     - opinion
+
+"xkcd@mastodon.xyz":
+  name: The XKCD Bot
+  lang: en
+  tags:
+    - art
+    - science
+    - technology
+    - culture
