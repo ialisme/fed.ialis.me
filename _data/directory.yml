@@ -2157,3 +2157,10 @@
     - science
     - technology
     - culture
+
+"nos@mastodon.nl":
+  name: NOS Nieuws
+  lang: nl
+  tags:
+    - news
+
