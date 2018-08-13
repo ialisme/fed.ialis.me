@@ -2003,13 +2003,7 @@
     - opinion
     - mirrors
     - politics
-
-"nos@botsin.space":
-  name: NOS Nieuws
-  lang: nl
-  tags:
-    - news
-    
+   
 "xychelsea@botsin.space":
   name: Chelsea E. Manning 
   lang: en
@@ -2157,3 +2151,10 @@
     - science
     - technology
     - culture
+
+"nos@mastodon.nl":
+  name: NOS Nieuws
+  lang: nl
+  tags:
+    - news
+
