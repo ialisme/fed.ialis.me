@@ -1949,14 +1949,14 @@
     - news-activists
     - opinion
 
-"joop_nl@todon.nl":
+"joop_nl@newsbots.eu":
   name: Joop
   lang: nl
   tags:
     - news
     - opinion
 
-"counterpunch@botsin.space":
+"counterpunch@newsbots.eu":
   name: CounterPunch
   lang: en
   tags:
@@ -1964,7 +1964,7 @@
     - news-activists
     - opinion
     
-"alternet@botsin.space":
+"alternet@newsbots.eu":
   name: AlterNet
   lang: en
   tags:
@@ -1972,7 +1972,7 @@
     - news-activists
     - opinion
 
-"degroene@todon.nl":
+"degroene@newsbots.eu":
   name: De Groene
   lang: nl
   tags:
@@ -1987,7 +1987,7 @@
     - opinion
     - mirrors
 
-"decorrespondent@todon.nl":
+"decorrespondent@newsbots.eu":
   name: De Correspondent
   lang: nl
   tags:
@@ -2057,7 +2057,7 @@
     - opensource
     - technology
 
-"humanrights@botsin.space":
+"humanrights@newsbots.eu":
   name: Human Rights News
   lang: en
   tags:
@@ -2135,7 +2135,7 @@
     - mirror
     - news-activists
 
-"democracynow@botsin.space":
+"democracynow@newsbots.eu":
   name: Democracy Now! 
   lang: en
   tags:
@@ -2152,7 +2152,7 @@
     - technology
     - culture
 
-"nos@mastodon.nl":
+"nos@newsbots.eu":
   name: NOS Nieuws
   lang: nl
   tags:
