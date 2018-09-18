@@ -2158,3 +2158,20 @@
   tags:
     - news
 
+"reuters_worldnews@newsbots.eu":
+  name: Reuters World News
+  lang: en
+  tags:
+    - news
+    
+"dw@newsbots.eu":
+  name: Deutsche Welle (English) 
+  lang: en
+  tags:
+    - news 
+    
+"dw_deutsch@newsbots.eu":
+  name: Deutsche Welle (Deutsch) 
+  lang: de
+  tags:
+    - news 
