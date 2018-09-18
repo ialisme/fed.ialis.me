@@ -2175,3 +2175,34 @@
   lang: de
   tags:
     - news 
+
+"aljazeera_english@newsbots.eu":
+  name: Al Jazeera English
+  lang: en
+  tags:
+    - news
+    
+"telesur_en@newsbots.eu":
+  name: teleSUR English (Unofficial)
+  lang: en
+  tags:
+    - news
+    
+"telesur_es@newsbots.eu":
+  name: teleSUR TV (Extraoficial)
+  lang: es
+  tags:
+    - news
+    
+"russiatoday@newsbots.eu":
+  name: RT (Unofficial)
+  lang: en
+  tags:
+    - news
+    
+"itsgoingdown@newsbots.eu":
+  name: It's Going Down (Unofficial)
+  lang: en
+  tags:
+    - news
+    - news-activists
