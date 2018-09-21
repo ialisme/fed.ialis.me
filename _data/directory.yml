@@ -2194,8 +2194,8 @@
   tags:
     - news
     
-"russiatoday@newsbots.eu":
-  name: RT (Unofficial)
+"RT@mastodon.internot.no":
+  name: RT
   lang: en
   tags:
     - news
