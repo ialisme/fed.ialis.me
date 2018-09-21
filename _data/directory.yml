@@ -2158,3 +2158,51 @@
   tags:
     - news
 
+"reuters_worldnews@newsbots.eu":
+  name: Reuters World News
+  lang: en
+  tags:
+    - news
+    
+"dw@newsbots.eu":
+  name: Deutsche Welle (English) 
+  lang: en
+  tags:
+    - news 
+    
+"dw_deutsch@newsbots.eu":
+  name: Deutsche Welle (Deutsch) 
+  lang: de
+  tags:
+    - news 
+
+"aljazeera_english@newsbots.eu":
+  name: Al Jazeera English
+  lang: en
+  tags:
+    - news
+    
+"telesur_en@newsbots.eu":
+  name: teleSUR English (Unofficial)
+  lang: en
+  tags:
+    - news
+    
+"telesur_es@newsbots.eu":
+  name: teleSUR TV (Extraoficial)
+  lang: es
+  tags:
+    - news
+    
+"RT@mastodon.internot.no":
+  name: RT
+  lang: en
+  tags:
+    - news
+    
+"itsgoingdown@newsbots.eu":
+  name: It's Going Down (Unofficial)
+  lang: en
+  tags:
+    - news
+    - news-activists
