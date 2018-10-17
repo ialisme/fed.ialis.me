@@ -1722,14 +1722,7 @@
   tags:
     - culture
     - entertainment
-
-"Liberapay@mastodon.rocks":
-  name: Liberapay
-  lang: en
-  tags:
-    - organizations
-    - economy
-
+    
 "indie@mastodon.social":
   name: Ind.ie
   lang: en
@@ -2034,13 +2027,14 @@
     - technology
     - opensource
 
-"LiberaPay@mastodon.rocks":
-  name: LiberaPay
+"Liberapay@mastodon.xyz":
+  name: Liberapay
   lang: en
   tags:
     - organizations
     - technology
     - opensource
+    - economy
 
 "privacylab@mastodon.social":
   name: Yale Privacy Lab
