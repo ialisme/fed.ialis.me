@@ -999,7 +999,7 @@
   tags:
     - meta
 
-"fsfe@quitter.no":
+"fsfe@mastodon.social":
   name: Free Software Foundation Europe
   lang: all
   tags:
@@ -2200,3 +2200,33 @@
   tags:
     - news
     - news-activists
+
+"fdroidorg@mastodon.technology":
+  name: F-Droid
+  lang: en
+  tags:
+    - technology
+    - opensource
+
+"mozilla@apoil.org":
+  name: Mozilla (Unofficial)
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
+
+"postmarketOS@fosstodon.org":
+  name: postmarketOS
+  lang: en
+  tags:
+    - technology
+    - opensource
+
+"disroot@hub.disroot.org":
+  name: Disroot
+  lang: en
+  tags:
+    - organizations
+    - technology
+    - opensource
