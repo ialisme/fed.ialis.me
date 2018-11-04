@@ -1866,7 +1866,7 @@
   name: NextButters
   lang: en
   tags:
-    - techno
+    - technology
     - opensource
     - companies
 
@@ -2230,3 +2230,33 @@
     - organizations
     - technology
     - opensource
+
+"@krita@mastodon.art":
+  name: Krita
+  lang: en
+  tags:
+    - art
+    - technology
+    - opensource
+
+"@inkscape@mastodon.art":
+  name: Inkscape
+  lang: en
+  tags:
+    - art
+    - technology
+    - opensource
+
+"@Matomo@mastodon.social"
+  name: Matomo
+  lang: en
+  tags: 
+    - technology
+    - opensource
+
+"@Fairphone@social.weho.st"
+  name: Fairphone
+  lang: en
+  tags: 
+    - technology
+    - companies    
